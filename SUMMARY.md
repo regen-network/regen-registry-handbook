@@ -20,3 +20,7 @@
 * [How to Contribute](contributing-to-the-guide/how-to-contribute.md)
 * [Connecting to Github](contributing-to-the-guide/connecting-to-github.md)
 * [Versioning](contributing-to-the-guide/versioning.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
