@@ -5,9 +5,24 @@
 ## Fundamentals
 
 * [About Regen Network Development, Inc](fundamentals/about-regen-network-development-inc.md)
+* [About Regen Registry](fundamentals/about-regen-registry.md)
 * [Regen Registry Program Overview](fundamentals/regen-registry-program-overview/README.md)
   * [Objectives](fundamentals/regen-registry-program-overview/objectives.md)
   * [Scope](fundamentals/regen-registry-program-overview/scope.md)
+
+## About the Program Guide
+
+* [Introduction](about-the-program-guide/introduction.md)
+* [Version - NEEDS REWORK](about-the-program-guide/version-needs-rework.md)
+* [Language](about-the-program-guide/language.md)
+* [Definitions](about-the-program-guide/definitions.md)
+
+## Program Process & Documents
+
+* [Process Flow Chart](program-process-and-documents/process-flow-chart.md)
+* [Project Lifecycle](program-process-and-documents/project-lifecycle.md)
+* [Procedural Documents](program-process-and-documents/procedural-documents.md)
+* [Templates & Forms](program-process-and-documents/templates-and-forms.md)
 
 ## Methodology Development
 
@@ -21,6 +36,14 @@
 * [Connecting to Github](contributing-to-the-guide/connecting-to-github.md)
 * [Versioning](contributing-to-the-guide/versioning.md)
 
-## Group 1
+## Roles and Responsibilities
 
-* [Page 1](group-1/page-1.md)
+* [Definitions](roles-and-responsibilities/definitions.md)
+
+## Guiding Principles
+
+* [Guiding Principles List](guiding-principles/guiding-principles-list.md)
+
+## Governance
+
+* [Governance Proposal](governance/governance-proposal.md)

@@ -19,3 +19,5 @@ The **Regen Registry Program** aims provide an open source, vertically integrate
 * Each layer offered within the Regen Registry is standalone and Project Proponents can choose which ones to use.
 
 <mark style="color:orange;">Our</mark> [Regen Network Ecostack](https://docs.google.com/presentation/d/1p7BaAVkmG8ncbrbBxOPYYMZLOjMaUaxEtb-jKHlcLgU/edit#slide=id.g8fe2b82903\_0\_216) <mark style="color:orange;">presentation gives a more detailed overview of our ledger and registry program.</mark>
+
+**Intellectual Property Rights, Copyright and Disclaimer:** As noted in [**Regen Registry Terms of Service, Section 20**](https://docs.google.com/document/d/1WGvPI5NjsS4WhMCL3AyRa0oHP6j2R34YByNVRo8XDkA/edit#heading=h.ew69mclrluk)**.**
