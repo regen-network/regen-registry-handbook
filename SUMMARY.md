@@ -71,3 +71,7 @@
 * [Personal / Commercially Sensitive Information](project-documentation/personal-commercially-sensitive-information.md)
 * [Previous Rejection by Other Registry](project-documentation/previous-rejection-by-other-registry.md)
 * [Managing Property Under Covenance Obligation](project-documentation/managing-property-under-covenance-obligation.md)
+
+## Monitoring
+
+* [Monitoring Requirement](monitoring/monitoring-requirement.md)
