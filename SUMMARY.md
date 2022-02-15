@@ -33,7 +33,7 @@
 * [Procedural Documents](program-process-and-documents/procedural-documents.md)
 * [Templates & Forms](program-process-and-documents/templates-and-forms.md)
 
-## Initial Project Parameters&#x20;
+## Initial Project Parameters
 
 * [Initial Project Paramaters](initial-project-parameters/initial-project-paramaters.md)
 
@@ -64,3 +64,10 @@
 * [Monitoring](project-documentation/monitoring.md)
 * [Verification](project-documentation/verification.md)
 * [Misc](project-documentation/misc.md)
+* [Project on Hold](project-documentation/project-on-hold.md)
+* [Non-Compliant Projects](project-documentation/non-compliant-projects.md)
+* [Retiring Credits](project-documentation/retiring-credits.md)
+* [Tradability](project-documentation/tradability.md)
+* [Personal / Commercially Sensitive Information](project-documentation/personal-commercially-sensitive-information.md)
+* [Previous Rejection by Other Registry](project-documentation/previous-rejection-by-other-registry.md)
+* [Managing Property Under Covenance Obligation](project-documentation/managing-property-under-covenance-obligation.md)
