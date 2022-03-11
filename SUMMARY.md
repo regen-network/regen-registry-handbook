@@ -22,6 +22,10 @@
 
 * [Guiding Principles List](guiding-principles/guiding-principles-list.md)
 
+## Project Monitoring
+
+* [Project Monitoring](project-monitoring/methodology-review.md)
+
 ## Governance
 
 * [Governance Proposal](governance/governance-proposal.md)

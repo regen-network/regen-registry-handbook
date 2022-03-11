@@ -1,0 +1,7 @@
+# Project Monitoring
+
+### Monitoring Overview&#x20;
+
+Regen Registry requires monitoring to be conducted by a Project Developer or an independent Monitor chosen by the Project Proponent and recognized by Regen Registry. The Monitor shall follow the requirements in the approved methodology to collect data and report on the benefits and indicators outlined in the methodology. Monitoring results will be used to determine the crediting amount using calculations defined in the methodology.
+
+Each methodology will explicitly specify methods that need to be implemented by a Monitor, as well as monitoring event timing, event frequency, and reporting requirements. For most methodologies, collection of baseline data at the start of a project will be a requirement, so it is important that independent Monitors are identified early in the project formation process. At the discretion and expense of Regen Registry, an independent auditor will occasionally verify monitoring reports to ensure appropriate monitoring methods and reporting are being followed.
