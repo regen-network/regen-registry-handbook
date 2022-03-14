@@ -26,9 +26,7 @@
 
 ## Methodology Development
 
-* [Regen Registry Methodology Review Process](methodology-development/methodology-review/README.md)
-  * [Public Comment Period](methodology-development/methodology-review/public-comment-period.md)
-  * [Scientific Peer Review](methodology-development/methodology-review/scientific-peer-review.md)
+* [Regen Registry Methodology Review Process](methodology-development/methodology-review.md)
 
 ## Contributing to the Guide
 
