@@ -4,10 +4,10 @@
 
 The methodology review process consists of four stages before it is published on the Regen Registry:
 
-1. [Informal Feedback from Regen Registry & Regen Network Community](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#informal-feedback-from-regen-registry-and-the-community)
-2. [Internal Review](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#internal-review)
-3. [Expert Peer Review](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#expert-peer-review)
-4. [Public Comment](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#public-comment)
+1. [Informal Feedback from Regen Registry & Regen Network Community](methodology-review-process.md#informal-feedback-from-regen-registry-and-regen-network-community)
+2. [Internal Review](methodology-review-process.md#internal-review)
+3. [Expert Peer Review](methodology-review-process.md#expert-peer-review)
+4. [Public Comment](methodology-review-process.md#public-comment)
 
 Each of these stages are described below.
 
@@ -19,11 +19,11 @@ In order to implement an effective and efficient review process we encourage met
 
 The first formal step in the review process after a methodology developer submits a methodology to the Regen Registry, is an internal review performed by Regen Registry Methodology Review Lead. The intent of the internal review is to ensure that the methodology adheres to the requirements outlined in this Program Guide and that the quality of the methodology framework is sufficient to warrant review by expert peers. We will also verify that three or more suitable potential reviewers have been submitted with the methodology to assist the Methodology Review Lead with the selection of expert peer reviewers.
 
-The Methodology Review Lead will review the methodology, drawing on outside expertise if necessary, to determine if it is complete and of suitable quality (language and content) for expert review. Regen Registry aims to complete the internal review in less than two weeks. The methodology will be returned to methodology developers to inform them whether or not the methodology is potentially suitable to be hosted on the Regen Registry and if it is, provide feedback on how to improve it. At the discretion of the Methodology Review Lead, the methodology will proceed to the [Expert Peer Review](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#expert-peer-review) stage.
+The Methodology Review Lead will review the methodology, drawing on outside expertise if necessary, to determine if it is complete and of suitable quality (language and content) for expert review. Regen Registry aims to complete the internal review in less than two weeks. If the methodology still needs work, the methodology will be returned to methodology developers to inform them whether or not the methodology is potentially suitable to be hosted on the Regen Registry and if it is, provide feedback on how to improve it. Otherwise, the Methodology Review Lead will approve the methodology to proceed to the [Expert Peer Review](methodology-review-process.md#expert-peer-review) stage.
 
 ## Expert Peer Review
 
-The Expert Peer Review will focus on ensuring that the proposed methodology is scientifically robust and likely to produce the expected results using the methods outlined in the methodology. To accomplish this, we will enlist the help of a minimum of two peers from the expert community that have sufficient expertise to evaluate the proposed methods. We will use the list of potential expert peer reviewers submitted with the methodology and will identify additional reviewers at the discretion of the Methodology Review Lead. This selection process can take a few weeks to accomplish. More information about the process that reviewers will follow can be found in the [Peer Reviewer Guidelines](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#expert-peer-reviewer-guidelines) section below. When the Methodology Review Lead is satisfied that the methodology is acceptable the methodology developer will be notified and the final review phase, the [Public Comment](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#public-comment), can begin.
+The Expert Peer Review will focus on ensuring that the proposed methodology is scientifically robust and likely to produce the expected results using the methods outlined in the methodology. To accomplish this, we will enlist the help of a minimum of two peers from the expert community that have sufficient expertise to evaluate the proposed methods. We will use the list of potential expert peer reviewers submitted with the methodology and will identify additional reviewers at the discretion of the Methodology Review Lead. This selection process can take a few weeks to accomplish. More information about the process that reviewers will follow can be found in the [Expert Peer Reviewer Guidelines](methodology-review-process.md#expert-peer-reviewer-guidelines) section below. When the Methodology Review Lead is satisfied that the methodology is acceptable the methodology developer will be notified and the final review phase, the [Public Comment](methodology-review-process.md#public-comment), can begin.
 
 #### **Handling a Review**
 
@@ -71,7 +71,7 @@ Public comments can be made and discussed in the Methodology Public Comment chan
 
 The Discord Methodology Public Comment channel can be used for the public to openly and informally discuss the methodology. Methodology developers are encouraged to monitor this Discord channel during the public comment period and engage with the public as comments and questions are posted.
 
-Initially, we will not provide a specific format for public comments but they should be constructive and developed with the intent of improving the methodology and in the spirit of an ally with the methodology developer. The points noted in the [Peer Reviewer Guidelines](https://github.com/regen-network/regen-registry-program/blob/peer-review/methodology-development/methodology-review.md#expert-peer-reviewer-guidelines) section can be used to guide the types of comments we are looking for.
+Initially, we will not provide a specific format for public comments but they should be constructive and developed with the intent of improving the methodology and in the spirit of an ally with the methodology developer. The points noted in the [Expert Peer Reviewer Guidelines](methodology-review-process.md#expert-peer-reviewer-guidelines) section can be used to guide the types of comments we are looking for.
 
 After the two week comment period, the Methodology Review Lead will compile comments and synthesize them before sending them to the methodology developer. If there are major concerns that cannot be confidently resolved within Regen Registry, expert input from the expert community will be requested. Also, some clarification might be requested from the commenters when necessary by the Methodology Review Lead.
 
