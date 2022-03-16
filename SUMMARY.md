@@ -2,15 +2,6 @@
 
 * [Regen Registry Program Guide](README.md)
 
-## Fundamentals
-
-* [About Regen Network Development, Inc](fundamentals/about-regen-network-development-inc.md)
-
-## About the Program Guide
-
-* [Introduction](about-the-program-guide/introduction.md)
-* [Roles and Responsibilities](about-the-program-guide/roles-and-responsibilities.md)
-
 ## Methodology Development
 
 * [Methodology Review Process](methodology-development/methodology-review-process.md)
