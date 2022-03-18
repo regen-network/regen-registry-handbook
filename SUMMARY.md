@@ -2,6 +2,10 @@
 
 * [Regen Registry Program Guide](README.md)
 
+## Registry Program Overview
+
+* [Regen Registry Scope](registry-program-overview/regen-registry-scope.md)
+
 ## Methodology Development
 
 * [Methodology Review Process](methodology-development/methodology-review-process.md)
