@@ -1,10 +1,13 @@
 # Table of contents
 
-* [Regen Registry Program Guide](README.md)
+* [Regen Registry Guide](README.md)
 
-## Registry Program Overview
+## Regen Registry Overview
 
-* [Regen Registry Scope](registry-program-overview/regen-registry-scope.md)
+* [Structure](regen-registry-overview/structure.md)
+* [Scope](regen-registry-overview/regen-registry-scope.md)
+* [Objectives](regen-registry-overview/objectives.md)
+* [Users](regen-registry-overview/users.md)
 
 ## Methodology Development
 
