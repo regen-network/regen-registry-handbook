@@ -7,7 +7,7 @@
 * [Structure](regen-registry-overview/structure.md)
 * [Scope](regen-registry-overview/regen-registry-scope.md)
 * [Objectives](regen-registry-overview/objectives.md)
-* [Users](regen-registry-overview/users.md)
+* [Definitions](regen-registry-overview/users.md)
 
 ## Methodology Development
 
