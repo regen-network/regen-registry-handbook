@@ -1,7 +1,7 @@
 ---
 description: >-
-  A list of users definitions and common terms and acronyms associated with
-  Regen Registry processes
+  This sections defines users that partner with Regen Registry and common terms
+  used by Regen Registry
 ---
 
 # Definitions
@@ -10,9 +10,9 @@ description: >-
 
 **Broker** - An individual or organization offering brokerage services to credit owners.&#x20;
 
-**Credit Class Admin** - The address with the authority to update a given Credit Class (i.e. to update the admin, the list of approved issuers, and the metadata). When a Credit Class is created, the admin is initially set to the address that created the Credit Class.&#x20;
+**Credit Class Admin** - The individual or organization with the authority to update a given Credit Class (i.e. to update the admin, the list of approved issuers, and the metadata). When a Credit Class is created, the admin is initially set to the address that created the Credit Class.&#x20;
 
-**Credit Class Issuers** - The addresses with the authority to issue Credit Batches under the given Credit Class. The list of Credit Class Issuers is defined at the time the Credit Class is created and only the admin can update the list after the Credit Class is created.&#x20;
+**Credit Class Issuers** - The individual or organization with the authority to issue Credit Batches under the given Credit Class. The list of Credit Class Issuers is defined at the time the Credit Class is created and only the admin can update the list after the Credit Class is created.&#x20;
 
 **Credit Designer** - An individual or organization that is developing a new Credit Class or contributing to an existing one.&#x20;
 
