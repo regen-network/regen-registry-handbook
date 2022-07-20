@@ -14,10 +14,13 @@
 * [Submitting a Methodology](methodology-development/submitting-a-methodology.md)
 * [Methodology Review Process](methodology-development/methodology-review-process.md)
 
-## Monitoring
-
-* [Monitoring Overview](monitoring/monitoring-overview.md)
-
 ## Project Development
 
 * [Project Development Overview](project-development/project-development-overview.md)
+* [Project Development Process](project-development/project-development-process/README.md)
+  * [Project Plan Example](project-development/project-development-process/project-plan-example.md)
+* [Project Plan Template](project-development/project-plan-template.md)
+
+## Monitoring
+
+* [Monitoring Overview](monitoring/monitoring-overview.md)

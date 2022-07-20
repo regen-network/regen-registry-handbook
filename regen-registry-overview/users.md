@@ -10,7 +10,7 @@ description: >-
 
 **Broker** - An individual or organization offering brokerage services to credit owners.&#x20;
 
-**Credit Class Admin** - The individual or organization with the authority to update a given Credit Class (i.e. to update the admin, the list of approved issuers, and the metadata). When a Credit Class is created, the admin is initially set to the address that created the Credit Class.&#x20;
+**Credit Admin** - The individual or organization with the authority to update a given Credit Class (i.e. to update the admin, the list of approved issuers, and the metadata). When a Credit Class is created, the admin is initially set to the address that created the Credit Class.&#x20;
 
 **Credit Class Issuers** - The individual or organization with the authority to issue Credit Batches under the given Credit Class. The list of Credit Class Issuers is defined at the time the Credit Class is created and only the admin can update the list after the Credit Class is created.&#x20;
 
@@ -22,7 +22,7 @@ description: >-
 
 **Methodology Developer** - An individual or organization that is developing a new methodology or contributing to an existing one.&#x20;
 
-**Monitor** - An individual or organization contracted to provide monitoring services to measure the ecological benefits / indicators defined in a given Credit Class and its approved methodology.&#x20;
+**Monitoring Service Provider (MSP)** - An individual or organization contracted to provide monitoring services to measure the ecological benefits / indicators defined in a given Credit Class and its approved methodology.&#x20;
 
 **Project Developer** - The individual or organization in charge of managing the project and is the main point of contact with Regen Registry. The Project Developer can be the Land Owner, Earth Steward or a third party.&#x20;
 

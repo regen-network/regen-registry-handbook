@@ -23,13 +23,14 @@ Regen Registry provides support to Project Developers and Earth Stewards through
 
 The overall Project Development process includes:&#x20;
 
-* Implementing your project by identifying a Methodology and Credit Class&#x20;
-* Identifying [Key Actors](../regen-registry-overview/users.md#user-definitions)
+* Implementing your project by&#x20;
+  * Identifying a Methodology and Credit Class&#x20;
+  * Identifying [Key Actors](../regen-registry-overview/users.md#user-definitions)
 * Project Registration
-* Project Plan&#x20;
-* [Monitoring Reports](../monitoring/monitoring-overview.md)&#x20;
-* Contracts&#x20;
-* Project Page
+  * Project Plan&#x20;
+  * [Monitoring Reports](../monitoring/monitoring-overview.md)&#x20;
+  * Contracts&#x20;
+  * Project Page
 * Project Lifecycle&#x20;
-* Project Credits&#x20;
-* Project Compliance
+  * Project Credits&#x20;
+  * Project Compliance
