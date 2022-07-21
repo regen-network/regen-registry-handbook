@@ -14,6 +14,12 @@
 * [Submitting a Methodology](methodology-development/submitting-a-methodology.md)
 * [Methodology Review Process](methodology-development/methodology-review-process.md)
 
+***
+
+* [Credit Classes](credit-classes/README.md)
+  * [New Credit Class](credit-classes/new-credit-class.md)
+  * [Credit Class Intro](credit-classes/credit-class-intro.md)
+
 ## Project Development
 
 * [Project Development Overview](project-development/project-development-overview.md)
