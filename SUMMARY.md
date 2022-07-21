@@ -17,8 +17,10 @@
 ***
 
 * [Credit Classes](credit-classes/README.md)
-  * [New Credit Class](credit-classes/new-credit-class.md)
   * [Credit Class Intro](credit-classes/credit-class-intro.md)
+  * [New Credit Class](credit-classes/new-credit-class.md)
+  * [Modifications to Approved Credit Classes](credit-classes/modifications-to-approved-credit-classes.md)
+  * [Governance](credit-classes/governance.md)
 
 ## Project Development
 

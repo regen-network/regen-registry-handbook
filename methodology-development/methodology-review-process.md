@@ -9,7 +9,7 @@ The Methodology Review Process consists of four stages before it is published on
 3. [Expert Peer Review](methodology-review-process.md#expert-peer-review) (approx. 3-6 months)
 4. [Public Comment](methodology-review-process.md#public-comment) (2 weeks)
 
-Each of these stages are described below. The length of time to complete the Expert Peer review depends on availability and response time of Expert Peer Reviewers as well as the amount of comments to address and and review cycles needed for the Methodology Review Lead to approve the methodology.
+Each of these stages are described below.  The length of time to complete the Expert Peer review depends on availability and response time of Expert Peer Reviewers as well as the amount of comments to address and and review cycles needed for the Methodology Review Lead to approve the methodology.
 
 ## Informal Feedback from Regen Registry & Regen Network Community
 
@@ -41,13 +41,13 @@ When the Methodology Review Lead receives comments from reviewers they will asse
 
 #### **Revisions**
 
-If revisions are requested, the methodology developers will have a maximum of six weeks to address reviewer feedback and resubmit a revised methodology along with clear notification of changes that were made with explicit note of responses to Expert Peer Reviewer feedback. When the Methodology Review Lead receives a revised methodology, they will decide if it needs to go out for a second (or more) round of Expert Peer Review. If it goes out for review again, an effort will be made to use the same reviewers (if they formerly accepted to review future versions) or new reviewers will need to be found. If new reviewers are used, they will be made aware this is a revised methodology and they will need to have access to the revisions and past comments.
+If revisions are requested, the methodology developers will have a maximum of six weeks to address reviewer feedback and resubmit a revised methodology along with clear notification of changes that were made with explicit note of responses to  Expert Peer Reviewer feedback. When the Methodology Review Lead receives a revised methodology, they will decide if it needs to go out for a second (or more) round of Expert Peer Review. If it goes out for review again, an effort will be made to use the same reviewers (if they formerly accepted to review future versions) or new reviewers will need to be found. If new reviewers are used, they will be made aware this is a revised methodology and they will need to have access to the revisions and past comments.
 
 ### **Expert Peer Reviewer Guidelines**
 
 The task of a reviewer is to provide critical feedback to the methodology developer to help them improve the methodology. The reviewer should consider themselves an ally of the methodology developers.
 
-The Methodology Review Lead will contact potential reviewers until a minimum of two people commit to review the methodology. When a potential Expert Peer Reviewer is contacted they will be offered a stipend between $100 and $300 to complete a review, depending on the complexity of the methodology, at the discretion of the Methodology Review Lead.  The methodology developer will have to pay for the Expert Peer Review but in the future we hope to set up a service by which it will be paid for.  The range of stipends might be adjusted as the peer review program matures. When contacted, potential Expert Peer Reviewers will have one week to accept or decline the offer to review. If there is no response, a follow-up letter will be sent to the potential Expert Peer Reviewer. If no response or a negative response is received, then a search for another Expert Peer Reviewer will begin. If a potential Expert Peer Reviewer declines to review they will be requested to provide one or more alternates.
+The Methodology Review Lead will contact potential reviewers until a minimum of two people commit to review the methodology. When a potential Expert Peer Reviewer is contacted they will be offered a stipend between $100 and $300 to complete a review, depending on the complexity of the methodology, at the discretion of the Methodology Review Lead. The range of stipends might be adjusted as the peer review program matures. When contacted, potential Expert Peer Reviewers will have one week to accept or decline the offer to review. If there is no response, a follow-up letter will be sent to the potential Expert Peer Reviewer. If no response or a negative response is received, then a search for another Expert Peer Reviewer will begin. If a potential Expert Peer Reviewer declines to review they will be requested to provide one or more alternates.
 
 If a review cannot be submitted within the three week time period, the Expert Peer Reviewer should contact the Methodology Review Lead as early as possible to request an extension. Extensions will be granted at the discretion of the Methodology Review Lead.
 
