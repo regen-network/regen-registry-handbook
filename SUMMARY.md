@@ -11,16 +11,17 @@
 
 ## Methodology Development
 
+* [Methodology Development Overview](methodology-development/methodology-development-overview.md)
+* [Methodology Development Support](methodology-development/methodology-development-support.md)
 * [Submitting a Methodology](methodology-development/submitting-a-methodology.md)
 * [Methodology Review Process](methodology-development/methodology-review-process.md)
 
-***
+## Credit Classes
 
-* [Credit Classes](credit-classes/README.md)
-  * [Credit Class Intro](credit-classes/credit-class-intro.md)
-  * [New Credit Class](credit-classes/new-credit-class.md)
-  * [Modifications to Approved Credit Classes](credit-classes/modifications-to-approved-credit-classes.md)
-  * [Governance](credit-classes/governance.md)
+* [Credit Class Intro](credit-classes/credit-class-intro.md)
+* [New Credit Class](credit-classes/new-credit-class.md)
+* [Modifications to Approved Credit Classes](credit-classes/modifications-to-approved-credit-classes.md)
+* [Governance](credit-classes/governance.md)
 
 ## Project Development
 
