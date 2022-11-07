@@ -7,7 +7,7 @@ The Methodology Review Process consists of four stages before it is published on
 1. [Informal Feedback from Regen Registry & Regen Network Community](methodology-review-process.md#informal-feedback-from-regen-registry-and-regen-network-community)
 2. [Internal Review](methodology-review-process.md#internal-review) (2 weeks)
 3. [Expert Peer Review](methodology-review-process.md#expert-peer-review) (approx. 3-6 months)
-4. [Public Comment](methodology-review-process.md#public-comment) (2 weeks)
+4. [Public Comment](methodology-review-process.md#public-comment) (30 days)
 
 Each of these stages are described below. The length of time to complete the Expert Peer review depends on availability and response time of Expert Peer Reviewers as well as the amount of comments to address and and review cycles needed for the Methodology Review Lead to approve the methodology.
 
@@ -65,14 +65,12 @@ In addition to review comments, the Expert Peer Reviewer should also indicate if
 
 ## Public Comment
 
-After a methodology has successfully completed the Expert Peer Review process it will advance to the final review stage, Public Comment. Comments about the methodology will be solicited from the general public for a period of two weeks. The public commenting period will be announced using Regen Network Development (RND) typical social media platforms in [RND Discord server](https://discord.com/invite/guw5TGzCFR) and [Twitter](https://twitter.com/regen\_network?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+After a methodology has successfully completed the Expert Peer Review process it will advance to the final review stage, Public Comment. Comments about the methodology will be solicited from the general public for a period of 30 days. The public commenting period will be announced using Regen Network Development (RND) typical social media platforms (ie [RND Discord server](https://discord.com/invite/guw5TGzCFR) and [Twitter](https://twitter.com/regen\_network?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
 
-Public comments can be made and discussed in the Methodology Public Comment channel on RND’s Discord server or they can be sent directly to the Methodology Review Lead. Any comments made on Discord will be identifiable by the handle of the person making the comments. People submitting comments directly to the Methodology Review Lead will have the option to remain anonymous (the default option) or they can request to have their name attached to the comments.
+Methodolgies open to Public Comment are posted on the Call for Public Comment page can be made through the Public Comment templates provided there.  People submitting comments directly will have the option to remain anonymous (the default option) or they can request to have their name attached to the comments.
 
-The Discord Methodology Public Comment channel can be used by the public to openly and informally discuss the methodology. Methodology developers are encouraged to monitor this Discord channel during the Public Comment period and engage with the public as comments and questions are posted.
+We provide an optional template form for public comments.   They should be constructive and developed with the intent of improving the methodology and in the spirit of an ally with the methodology developer. The points noted in the [Expert Peer Reviewer Guidelines](methodology-review-process.md#expert-peer-reviewer-guidelines) section can be used to guide the types of comments we are looking for.
 
-Initially, we will not provide a specific format for public comments but they should be constructive and developed with the intent of improving the methodology and in the spirit of an ally with the methodology developer. The points noted in the [Expert Peer Reviewer Guidelines](methodology-review-process.md#expert-peer-reviewer-guidelines) section can be used to guide the types of comments we are looking for.
-
-After the two week Public Comment period, the Methodology Review Lead will compile comments and synthesize them before sending them to the methodology developer. If there are major concerns that cannot be confidently resolved within Regen Registry, input from the expert community will be requested. Also, some clarification might be requested from the commenters when necessary by the Methodology Review Lead.
+After the 30 day Public Comment period, the Methodology Review Lead will compile comments and synthesize them before sending them to the methodology developer. If there are major concerns that cannot be confidently resolved within Regen Registry, input from the expert community will be requested. Also, some clarification might be requested from the commenters when necessary by the Methodology Review Lead.
 
 The methodology developer will have six weeks to respond to the synthesized comments and return the revised methodology, along with responses to feedback, to the Methodology Review Lead. The Methodology Review Lead will review the revised methodology and will decide if the methodology is sufficient to be accepted into the Regen Registry Methodology Library, or if more work is required. If more work is required, the Methodology Review Lead will request the methodology developer to make specific changes to the methodology. When, at the discretion of the Methodology Review Lead, the methodology is of sufficient quality, the review process will end and the methodology will become integrated into the Regen Registry Methodology Library.
