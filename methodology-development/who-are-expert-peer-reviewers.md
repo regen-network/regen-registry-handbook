@@ -18,7 +18,11 @@ Early career researchers (ECRs) could and should also become involved in methodo
 
 **How to Become a Regen Peer Reviewer**
 
-Are you an expert in a nature-based solutions field, environmental economics, a specific ecological region or greenhouse gas accounting? Would you like to become involved in reviewing novel methodologies? RND welcomes your interest and invites you to fill out this Expert Reviewer Form.
+Are you an expert in a nature-based solutions field, environmental economics, a specific ecological region or greenhouse gas accounting? Would you like to become involved in reviewing novel methodologies?&#x20;
+
+Peer reviewers should have significant expertise and experience with standardized approaches. Methodology developers, policy makers, market analysts and validation/verification bodies, among others, are invited to apply. Familiarity with VCS methodology development and assessment is useful but not essential.
+
+Peer reviewers should expect to commit 4-8 hours to the task.&#x20;
 
 **Steps for Expert Peer Review (Regen Registry)**&#x20;
 
@@ -27,6 +31,6 @@ Are you an expert in a nature-based solutions field, environmental economics, a 
 * You will review and provide feedback and wait for a revision report and response from the methodology developer and review comments and revisions and send back as a pass or request additional updates&#x20;
 * A maximum a round of 3 reviews will be completed&#x20;
 * Payment - $300 stipend&#x20;
-* Goal will be to complete the process within 3 weeks with variability expected depending on response times.
+* Goal will be to complete the process within 3 -4 weeks with variability expected depending on response times.
 
-Interested?  Please contact&#x20;
+Interested?  Fill out our [Expert Peer Review](https://airtable.com/shrbKRhZUUQXhVI50) inquiry form!
