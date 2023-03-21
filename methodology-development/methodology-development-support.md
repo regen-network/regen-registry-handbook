@@ -10,11 +10,11 @@ Throughout the process of methodology development, [Regen Network’s Discord](h
 
 Throughout the entire process, the Regen Registry and Science teams are available to support Methodology Developers over calls and email.
 
-**Concept Note Phase:** If you have an idea for a methodology or a fleshed out methodology concept the first step is to submit a Concept Note. Within one to two weeks Regen Network Registry Team will respond via email to discuss the potential methodology and approve the Concept Note or decide on next steps. Next steps could include feedback and/or connecting you with others who have developed or are exploring similar methodological approaches.
+**Concept Note Phase:** If you have an idea for a methodology or a fleshed out methodology concept the first step is to [submit a concept note](https://airtable.com/appzrw40tJdLBM2RS/tblHsKbZwqqpScOzX/viwS3AVYBcJPXw3zH?blocks=show). Within two to three weeks Regen Network Registry Team will respond via email to discuss the potential methodology and approve the Concept Note or decide on next steps. Next steps could include feedback and/or connecting you with others who have developed or are exploring similar methodological approaches.
 
 **Methodology Development:** Throughout the methodology development process, Regen Registry will provide email and call check-ins. These check-ins occur at the discretion of Regen Registry or as requested by the Methodology Developer to address timeline, feedback and process questions. Regen Registry also works to connect Methodology Developers with targeted people and organizations in our network who can support the development of the methodology through active community networking and co-working spaces.&#x20;
 
-**Methodology Review:** Once the methodology is submitted and gone through Internal Review, the Regen Registry Methodology Review Lead will meet with the Methodology Developer to discuss if the methodology is suitable to proceed to the Expert Peer Review stage and assess the status of suitable potential reviewers made by the developer.
+**Internal Review:** Once the methodology is submitted and gone through Internal Review, the Regen Registry Methodology Review Lead will meet with the Methodology Developer to discuss if the methodology is suitable to proceed to the Expert Peer Review stage and assess the status of suitable potential reviewers made by the developer.
 
 **Expert Peer Review and Public Comment:** The Methodology Developer can expect the Methodology Review Lead to communicate with the reviewers and notify the Methodology Developer of when actions/revisions are needed.&#x20;
 

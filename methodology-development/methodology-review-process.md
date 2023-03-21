@@ -5,7 +5,7 @@
 The Methodology Review Process consists of four stages before it is published on the Regen Registry:
 
 1. [Informal Feedback from Regen Registry & Regen Network Community](methodology-review-process.md#informal-feedback-from-regen-registry-and-regen-network-community)
-2. [Internal Review](methodology-review-process.md#internal-review) (2 weeks)
+2. [Internal Review](methodology-review-process.md#internal-review) (4 weeks)
 3. [Expert Peer Review](methodology-review-process.md#expert-peer-review) (approx. 3-6 months)
 4. [Public Comment](methodology-review-process.md#public-comment) (15 days)
 
@@ -17,7 +17,7 @@ In order to implement an effective and efficient review process we encourage met
 
 ## Internal Review
 
-The first formal step in the review process after a methodology developer submits a methodology to the Regen Registry, is an internal review performed by Regen Registry Methodology Review Lead. The intent of the internal review is to ensure that the methodology adheres to the requirements outlined in this Program Guide and that the quality of the methodology framework is sufficient to warrant review by expert peers. We will also verify that three or more suitable potential reviewers have been identified with the methodology to assist the Methodology Review Lead with the selection of Expert Peer Reviewers.
+The first formal step in the review process after a methodology developer submits a methodology to the Regen Registry, is an internal review performed by Regen Registry Methodology Review Lead. The intent of the internal review is to ensure that the methodology adheres to the requirements outlined in this Guide and that the quality of the methodology framework is sufficient to warrant review by expert peers. We will also verify that three or more suitable potential reviewers have been identified with the methodology to assist the Methodology Review Lead with the selection of Expert Peer Reviewers.
 
 The Methodology Review Lead will review the methodology, drawing on outside expertise if necessary, to determine if it is complete and of suitable quality (language and content) for Expert Review. Regen Registry aims to complete the Internal Review in less than two weeks. If the methodology still needs work, the methodology will be returned to methodology developers to inform them whether or not the methodology is potentially suitable to be hosted on the Regen Registry and if it is, provide feedback on how to improve it. Otherwise, the Methodology Review Lead will approve the methodology to proceed to the [Expert Peer Review](methodology-review-process.md#expert-peer-review) stage.
 

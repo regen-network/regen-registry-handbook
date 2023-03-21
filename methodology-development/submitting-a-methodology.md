@@ -21,7 +21,7 @@ At this time, Regen Registry requires all parties to review and sign the [Regen 
 
 ### Submitting a Fully Developed Methodology
 
-To submit a methodology that has already gone through a peer review process, or exists on another registry, please submit through our [Methodology Intake Form](https://airtable.com/shrLCL7ioWuGLSc7g). Your methodology will undergo Regen Network’s Methodology Review Process and our Science Team will get back to you with next steps.
+To submit a methodology that has already gone through a peer review process, or exists on another registry, please submit through our [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/tblwQcFn0ENeG5KXR/viwBZ1ohLmEQ84z6Z?blocks=hide). Your methodology will undergo Regen Network’s Methodology Review Process and our Science Team will get back to you with next steps.
 
 ### Submitting a New Methodology
 
@@ -29,7 +29,7 @@ To submit a methodology that has already gone through a peer review process, or 
 
 A Concept Note is a short proposal of an idea for a project or methodology. If you are a researcher or project developer with an idea for a methodology, whether for monitoring a particular ecosystem change or an approach to address environmental and societal challenges, a Concept Note is a good starting point to get your thoughts on paper. Ideas can range from a fully developed Concept Note to a rough draft.
 
-Use the [Concept Note Submission Form](https://airtable.com/shrunsKASd5BDfI0N) to submit a Concept Note. Upon submission, our team will review and respond within 2 weeks to approve or suggest edits required for approval.
+Use the [Concept Note Submission Form](https://airtable.com/appzrw40tJdLBM2RS/tblHsKbZwqqpScOzX/viwS3AVYBcJPXw3zH?blocks=show) to submit a concept note. Upon submission, our team will review and respond within 3 weeks to approve or suggest edits required for approval.
 
 {% hint style="info" %}
 Want to see what methodologies are currently in development on Regen Registry? Check out our Credit & Methodologies in Development at [Built on Regen](https://www.notion.so/regennetwork/Built-on-Regen-Network-c6266114116842e389258747454f9f07).
@@ -41,6 +41,6 @@ Want to see what methodologies are currently in development on Regen Registry? C
 
 At this time, if you plan to register a new methodology with Regen Registry, we require that you go through the Expert Peer Review and a two-week Public Comment period to register a methodology with the Regen Registry. We are working on options for a potentially less rigorous review processes.
 
-When you are ready to submit, use the [Methodology Intake Form](https://airtable.com/shrLCL7ioWuGLSc7g) to submit a methodology draft for Internal Review.
+When you are ready to submit, use the [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/tblwQcFn0ENeG5KXR/viwBZ1ohLmEQ84z6Z?blocks=hide) to submit a methodology draft for Internal Review.
 
 For more information on methodology submission requirements and the continued development process go to the Methodology Developments Process chapter.

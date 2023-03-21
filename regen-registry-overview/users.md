@@ -82,8 +82,6 @@ description: >-
 
 ### Methodology Definitions&#x20;
 
-**Beta Form** - A methodology that has not undergone Expert Peer Review&#x20;
-
 **Co-Benefit** - The Intergovernmental Panel on Climate Change (IPCC) defines co-benefits of climate change mitigation as the positive benefits related to the reduction of greenhouse gasses. We define it more broadly as a benefit that is achieved along with the main indicator tracked and promoted in a given credit - which need not be a reduction of GHG. For example, a biodiversity credit might mainly promote the protection of a certain species and at the same time offer co-benefits, such as protection of water resources.&#x20;
 
 **Concept Note** - Means a submission of a methodology idea.&#x20;
