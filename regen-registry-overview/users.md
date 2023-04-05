@@ -68,7 +68,9 @@ description: >-
 
 **Credit Issuance Date** - The date upon which the Credit is issued to the Credit Recipient or Recipients.&#x20;
 
-**Credit Owner** - The individual or organization that owns a credit at a single point in time. Credit Price - The agreed upon price for a particular credit quantity and transaction, excluding any applicable taxes.&#x20;
+**Credit Owner** - The individual or organization that owns a credit at a single point in time.&#x20;
+
+**Credit Price** - The agreed upon price for a particular credit quantity and transaction, excluding any applicable taxes.&#x20;
 
 **Credit Recipient** - Any person or entity that is entitled to receive the credits as part of a credit issuance.&#x20;
 

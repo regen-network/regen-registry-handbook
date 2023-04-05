@@ -8,11 +8,11 @@ description: >-
 
 **Why An Expert Peer Review Is Important**
 
-The peer review process provides valuable feedback for those developing methodologies. It is a method of review that is widely respected and understood and creates value for your project. Overall the process works to advance the field of Nature Based Solutions (NBS) by helping to create standards that elevate the value of NBS’s.
+The peer review process provides valuable feedback for those developing methodologies. It is a method of review that is widely respected and understood and creates value for your project. Overall, the process works to advance the field of nature-based solutions (NBS) by helping to create standards that elevate the value of NbS’s.
 
 **Why it is Important for Experts to Engage in Peer Reviews**
 
-Reviewers benefit by exposure to novel applications in their fields of interest.. Tenure committees look favorably on participation in peer review, and invitations to review underscore that the reviewer is a respected subject matter expert. Contacts made during the peer review process can lead to long-lasting collaboration.
+Reviewers benefit by exposure to novel applications in their fields of interest. Tenure committees look favorably on participation in peer review, and invitations to review underscore that the reviewer is a respected subject matter expert. Contacts made during the peer review process can lead to long-lasting collaboration.
 
 Early career researchers (ECRs) could and should also become involved in methodology peer review. Becoming a reviewer early in your career helps you to better appreciate the feedback you receive as an author. A further benefit is it provides training in evaluating research critically. Are their methods suitable? Do their methods seem valid and appropriate for the intended goals? There is a clear reason for ECRs to become reviewers from a personal perspective, but the academic community benefits more widely. ECRs form a significant component of the academic community, and their involvement in peer review spreads out the workload, resulting in a more efficient process.&#x20;
 
