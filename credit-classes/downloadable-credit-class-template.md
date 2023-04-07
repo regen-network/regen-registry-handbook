@@ -6,4 +6,4 @@ description: >-
 
 # Downloadable Credit Class Template
 
-[Downloadable Credit Class Template](https://docs.google.com/document/d/1jt8EeDNlZVFlmlaITWjbYDikVDsiVyzatlx4xthP1lM/edit#heading=h.s6fkt9y2xjaq/copy)
+[Downloadable Credit Class Template](https://docs.google.com/document/d/1jt8EeDNlZVFlmlaITWjbYDikVDsiVyzatlx4xthP1lM/copy)
