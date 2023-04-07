@@ -1,21 +1,23 @@
 ---
-description: >-
-  While a subset of credit classes may initially be developed by Regen Registry,
-  the intention is to build a vibrant community of credit designers that will
-  take the lead going forward.
+description: What is a credit class and why Regen Registry offers this pathway.
 ---
 
 # Credit Class Intro
 
-**Regen Registry aims to support the creation of a broad set of credit classes that cover different ecosystems, geographical regions and localities that are tailored for different stakeholders (e.g. smallholder farmers, corporate farms, indigenous communities, conservation organizations, etc).**
+Credit classes are programs/protocols/standards which outline the rules and requirements for projects seeking to certify credits which can be sold on the voluntary market.
 
-The intent of the credit class is to democratize and invigorate the design of ecosystem service credits by allowing for a flexible and modular approach which unites different measurement systems under a shared set of definitions, rules, and requirements. Regen Registry separates out the typical set of definitions that are integrated into most registry standards and allow credit designers to modify and upgrade these as needed and appropriate, essentially replacing the top-down approach with a bottom-up one.  By separating out the methodology from the programmatic requirements of a credit, the credit class provides an adaptable solution to building ecosystem service credits by allowing individuals to design ecological assets to fit a specific set of needs.
+The credit class outlines the rules and requirements needed for an ecosystem service credit in a way which allows multiple methodologies to fold into the same credit class. Credit classes acknowledge commonalities, while simultaneously allowing for flexibility in design to address variation in ecological regeneration practices depending on size, location, access to tools, financing, etc.
 
-Creating a one-size-fits-all solution is suboptimal and does not tap into the overall potential of nature-based solutions. Ecological systems are inherently complex, and regenerative farming, grazing, and conservation practices are often nuanced and locale specific. Similarly, the needs and risk profile of buyers vary substantially depending on the size of the company, its sector, climate goals, etc. Therefore, credit designers should carefully examine the needs of both land steward and buyers in a given ecological and best management practice(s) context and devise a solution that addresses the intersection of those needs. With that said, in an ideal scenario, the credit class should address a common use case that will be applicable to many projects and not a very limited set of ones.
+Traditional approaches often rely on a single methodology to define everything from the measurement approach to the project verification and credit issuance requirements.  The credit class is a more general list of requirements of a project, the methodology is the detailed account of how to measure a project within those requirements.
 
-Regen Registry focuses exclusively on nature-based solutions. Credits aim to incentivize activities that protect, sustainably and/or regeneratively manage, restore natural or modified ecosystems, address societal challenges effectively and adaptively, while simultaneously providing human well-being and biodiversity benefits. Other activities, for instance focused on sustainable energy or energy savings, transportation, industrial process, construction, mining and industrial waste management, while undoubtedly important, are not the current focus of our program.
+Note: Credit classes (right now) only work for crediting programs and can’t be used for certification programs, such as the Regenerative Organic Certification, or voucher based programs (ie local currencies or food trading programs).&#x20;
 
-For Earth stewards, this means designing credits in a way that is context specific: a bottom-up, rather than a top-down solution. While more traditional approaches often rely on a single methodology to define everything from the measurement approach to the project verification and credit issuance requirements, the credit class provides the flexibility needed to overcome financial constraints, access to scientific resources, eligibility requirements, and site specific limitations. In this way, the credit class offers agency over the credit design process and makes participating in ecosystem service markets much more accessible.
+Some advantages of this credit class structure are:
 
-* **Ecosystem Type:** Each credit class and methodology shall stipulate the ecosystem type based on [RND taxonomy](https://docs.google.com/spreadsheets/d/1\_i9aKoC-sgaRgNAIa8QL4P-ZgmmamdPjsihEHEzpCys/edit#gid=1028002018). In the event there is no matching definition in the taxonomy, the credit designer or methodology developer will propose an addition to the [taxonomy](https://docs.google.com/spreadsheets/d/1\_i9aKoC-sgaRgNAIa8QL4P-ZgmmamdPjsihEHEzpCys/edit#gid=1028002018).&#x20;
-* **Ecosystem Service Classification:** Each credit class and methodology shall stipulate the ecosystem service based on [RND taxonomy](https://docs.google.com/spreadsheets/d/1\_i9aKoC-sgaRgNAIa8QL4P-ZgmmamdPjsihEHEzpCys/edit#gid=1028002018). In the event there is no matching definition in the taxonomy, the credit designer or methodology developer will propose an addition to the [taxonomy](https://docs.google.com/spreadsheets/d/1\_i9aKoC-sgaRgNAIa8QL4P-ZgmmamdPjsihEHEzpCys/edit#gid=1028002018).
+&#x20;(1) The ability to group methods under an umbrella credit class to help with curation
+
+&#x20;(2) Ability for credit designers to upgrade the credit class as needed without updating the entire methodology
+
+(3) Ability to design regional or practice specific crediting programs which accommodate to the needs of a specific set of stakeholders
+
+**Visit the** [**Regen Registry Library**](https://library.regen.network/) **for a list of current credit classes.**
