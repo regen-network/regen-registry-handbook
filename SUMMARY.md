@@ -31,6 +31,7 @@
 * [Co-Benefits](credit-classes/co-benefits.md)
 * [Governance](credit-classes/governance.md)
 * [Writing a Credit Class - Guidelines](credit-classes/writing-a-credit-class-guidelines.md)
+* [Downloadable Credit Class Template](credit-classes/downloadable-credit-class-template.md)
 
 ## Project Development
 
