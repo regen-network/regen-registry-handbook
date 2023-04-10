@@ -1,5 +1,8 @@
 ---
-description: What is a credit class and why Regen Registry offers this pathway.
+description: >-
+  While a subset of credit classes may initially be developed by Regen Registry,
+  the intention is to build a vibrant community of credit designers that will
+  take the lead going forward.
 ---
 
 # Credit Class Intro
@@ -21,3 +24,5 @@ Some advantages of this credit class structure are:
 (3) Ability to design regional or practice specific crediting programs which accommodate to the needs of a specific set of stakeholders
 
 **Visit the** [**Regen Registry Library**](https://library.regen.network/) **for a list of current credit classes.**
+
+<figure><img src="../.gitbook/assets/Credit Class.png" alt=""><figcaption></figcaption></figure>
