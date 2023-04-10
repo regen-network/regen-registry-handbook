@@ -8,6 +8,7 @@
 * [Scope](regen-registry-overview/regen-registry-scope.md)
 * [Objectives](regen-registry-overview/objectives.md)
 * [Definitions](regen-registry-overview/users.md)
+* [Program Rules and Requirements](regen-registry-overview/program-rules-and-requirements.md)
 
 ## Methodology Development
 
@@ -36,7 +37,7 @@
 ## Project Development
 
 * [Project Development Overview](project-development/project-development-overview.md)
-* [Project Development Process](project-development/project-development-process.md)
+* [Project Registration Registry](project-development/project-registration-registry.md)
 * [Project Plan Template](project-development/project-plan-template/README.md)
   * [Project Plan Example](project-development/project-plan-template/project-plan-example.md)
 
