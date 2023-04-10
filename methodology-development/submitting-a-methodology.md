@@ -29,7 +29,7 @@ To submit a methodology that has already gone through a peer review process, or 
 
 A concept note is a short proposal of an idea for a project or methodology. If you are a researcher or project developer with an idea for a methodology, whether for monitoring a particular ecosystem change or an approach to address environmental and societal challenges, a concept note is a good starting point to get your thoughts on paper. Ideas can range from a fully developed concept note to a rough draft.
 
-Use the [Concept Note Submission Form](https://airtable.com/appzrw40tJdLBM2RS/tblHsKbZwqqpScOzX/viwS3AVYBcJPXw3zH?blocks=show) to submit a concept note. Upon submission, our team will review and respond within 3 weeks to approve or suggest edits required for approval.
+Use the [Concept Note Submission Form](https://airtable.com/shrunsKASd5BDfI0N) to submit a concept note. Upon submission, our team will review and respond within 3 weeks to approve or suggest edits required for approval.
 
 {% hint style="info" %}
 Want to see what methodologies are currently in development on Regen Registry? Check out our Credit & Methodologies in Development at [Built on Regen](https://www.notion.so/regennetwork/Built-on-Regen-Network-c6266114116842e389258747454f9f07).
