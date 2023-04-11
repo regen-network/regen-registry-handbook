@@ -20,7 +20,7 @@
 
 ## Credit Classes
 
-* [Credit Class Intro](credit-classes/credit-class-intro.md)
+* [Credit Class Overview](credit-classes/credit-class-overview.md)
 * [Credit Class vs Methodology](credit-classes/credit-class-vs-methodology.md)
 * [Credit Class Defined](credit-classes/credit-class-defined.md)
 * [New Credit Class](credit-classes/new-credit-class.md)
