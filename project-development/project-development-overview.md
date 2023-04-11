@@ -19,3 +19,4 @@ Once a methodology and credit class are selected, project developers and/or Eart
 
 Regen Registry provides support to project developers and Earth stewards throughout the project development process with the following: templates, documentation reviews and open source science tools. The Regen Registry and Science teams rely on activating Regen Network community members, such as monitoring service providers, to support in the success of projects on the Regen Registry.
 
+<figure><img src="../.gitbook/assets/Overall Process.png" alt=""><figcaption></figcaption></figure>
