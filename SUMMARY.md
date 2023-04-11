@@ -37,9 +37,12 @@
 ## Project Development
 
 * [Project Development Overview](project-development/project-development-overview.md)
-* [Project Registration Registry](project-development/project-registration-registry.md)
-* [Project Plan Template](project-development/project-plan-template/README.md)
-  * [Project Plan Example](project-development/project-plan-template/project-plan-example.md)
+* [Project Registration Registry](project-development/project-development-process.md)
+* [Project Registration](project-development/project-registration/README.md)
+  * [Project Plan Template](project-development/project-registration/project-plan-template/README.md)
+    * [Project Plan Example](project-development/project-registration/project-plan-template/project-plan-example.md)
+* [Project Marketing](project-development/project-marketing.md)
+* [Credit Issuance](project-development/credit-issuance.md)
 
 ## Monitoring
 
