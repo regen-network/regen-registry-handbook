@@ -37,7 +37,7 @@
 ## Project Development
 
 * [Project Development Overview](project-development/project-development-overview.md)
-* [Project Registration Registry](project-development/project-development-process.md)
+* [Project Development Process](project-development/project-development-process.md)
 * [Project Registration](project-development/project-registration/README.md)
   * [Project Plan Template](project-development/project-plan-template/README.md)
     * [Project Plan Example](project-development/project-plan-template/project-plan-example.md)
