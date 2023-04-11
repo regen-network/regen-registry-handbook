@@ -5,7 +5,7 @@ description: >-
   take the lead going forward.
 ---
 
-# Credit Class Intro
+# Credit Class Overview
 
 Credit classes are programs/protocols/standards which outline the rules and requirements for projects seeking to certify credits which can be sold on the voluntary market.
 
@@ -25,4 +25,4 @@ Some advantages of this credit class structure are:
 
 **Visit the** [**Regen Registry Library**](https://library.regen.network/) **for a list of current credit classes.**
 
-<figure><img src="../.gitbook/assets/Credit Class.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Credit Class.png" alt=""><figcaption></figcaption></figure>

@@ -20,19 +20,19 @@
 
 ## Credit Classes
 
-* [Credit Class Overview](credit-classes/credit-class-overview.md)
+* [Credit Class Overview](credit-classes/credit-class-overview/README.md)
+  * [Credit Class Defined](credit-classes/credit-class-overview/credit-class-defined.md)
 * [Credit Class vs Methodology](credit-classes/credit-class-vs-methodology.md)
-* [Credit Class Defined](credit-classes/credit-class-defined.md)
 * [New Credit Class](credit-classes/new-credit-class.md)
 * [Credit Type](credit-classes/credit-type.md)
-* [Management](credit-classes/management.md)
-* [Issuance](credit-classes/issuance.md)
-* [Credit Class Creator Allow List](credit-classes/credit-class-creator-allow-list.md)
-* [Modifications to Approved Credit Classes](credit-classes/modifications-to-approved-credit-classes.md)
+* [Management](credit-classes/management/README.md)
+  * [Issuance](credit-classes/management/issuance.md)
+  * [Credit Class Creator Allow List](credit-classes/management/credit-class-creator-allow-list.md)
+  * [Modifications to Approved Credit Classes](credit-classes/management/modifications-to-approved-credit-classes.md)
 * [Co-Benefits](credit-classes/co-benefits.md)
 * [Governance](credit-classes/governance.md)
-* [Writing a Credit Class - Guidelines](credit-classes/writing-a-credit-class-guidelines.md)
-* [Downloadable Credit Class Template](credit-classes/downloadable-credit-class-template.md)
+* [Writing a Credit Class - Guidelines](credit-classes/writing-a-credit-class-guidelines/README.md)
+  * [Credit Class Template](credit-classes/writing-a-credit-class-guidelines/credit-class-template.md)
 
 ## Project Development
 
