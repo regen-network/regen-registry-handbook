@@ -46,4 +46,5 @@
 
 ## Monitoring
 
-* [Monitoring Overview](monitoring/monitoring-overview.md)
+* [Monitoring Overview](monitoring/monitoring-overview/README.md)
+  * [Monitoring Report Template](monitoring/monitoring-overview/monitoring-report-template.md)
