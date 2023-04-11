@@ -10,8 +10,6 @@ The Project Registration process includes the following phases:
 
 {% tabs %}
 {% tab title="Project Plan Submission" %}
-
-
 Each project proponent registering a project must submit a project plan with key information for the credit class and approved methodology. Regen Registry offers a generic [project plan template ](https://drive.google.com/file/d/19pYU0N69IDpeav6Hk747l1w0-a5-i53o/view?usp=share\_link)to adapt for each credit class. Please download the project plan and submit it using the [Project Registration Submission](https://airtable.com/shrYitbUuFQcD8jcT) form. Project proponents may use other templates if the final document demonstrates sufficient information to register a project. &#x20;
 
 As applicable, monitoring reports should be submitted with the project plan. See Regen Registry [Monitoring Report Template](https://docs.google.com/document/d/1zZ1n7mOKKKno2\_1Rj0RR9dPFizEG-F-HrI23Vwutq8E/edit).&#x20;
