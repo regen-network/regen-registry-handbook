@@ -12,4 +12,6 @@ Regen Registry plans to decentralize this address to support other's ability to 
 
 Regen Registry plans to use this address to steward much of the credit class creation, administration, and issuance. In the coming months Regen Registry hopes to train others in these important tasks in order to shift credit class administration and issuance to partners and community members. In addition, Regen Registry  is developing user-facing interfaces and other coordination tools like the group module and multi-signature and "DAO" software to support decentralized governance of the Registry.
 
+To learn more about the process to become a credit class creator, see this Signaling Proposal: [Process for Becoming a Credit Class Creator](https://github.com/regen-network/governance/blob/main/proposals/2021-09-regen-ledger-v2-signalling/credit-class-creator-process.pdf) (2021, V1)
+
 \
