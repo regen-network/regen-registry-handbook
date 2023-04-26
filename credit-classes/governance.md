@@ -4,7 +4,7 @@ description: How decisions are made about Credit Classes
 
 # Governance
 
-Regen Registry will initially administer the process of adding new credit classes with the process described above. In the near future our aim is for a broad set of stakeholders, including subject matter experts, land stewards, project developers, monitors, and verifiers to govern methodologies, achieving a more independent, decentralized registry inclusive of a broad set of stakeholders, including subject matter experts, land stewards, project developers, monitors, and verifiers.
+Regen Registry will initially administer the process of adding new credit classes with the process described above. In the near future our aim is for a broad set of stakeholders, including subject matter experts, land stewards, project developers, monitors, and verifiers to govern methodologies, achieving a more independent, decentralized registry inclusive of a broad set of stakeholders.
 
 At present, Regen Registry is the sole credit class creator on Regen Ledger.  This involves helping community members create and manage on-chain assets, both for credits produced natively through the Regen Registry Program and for credits from other registries, such as Verra, Gold Standard, or American Carbon Registry.
 
