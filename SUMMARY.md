@@ -9,6 +9,7 @@
 * [Objectives](regen-registry-overview/objectives.md)
 * [Definitions](regen-registry-overview/users.md)
 * [Program Rules and Requirements](regen-registry-overview/program-rules-and-requirements.md)
+* [Registry Hylo Guide](regen-registry-overview/registry-hylo-guide.md)
 
 ## Methodology Development
 
