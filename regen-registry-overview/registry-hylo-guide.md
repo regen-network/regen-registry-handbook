@@ -6,7 +6,7 @@ description: >-
 
 # Registry Hylo Guide
 
-Regen Registry and Science teams seek to grow the community around the development of ecocredit standards, the Regen Registry Guide, and the culture of Regen Registry as a community-driven regenerative registry. We use Hylo as the platform to encourage collaboration, support, and participation in this community. We invite all those with a desire to work with Regen Registry to join our community on Hylo.&#x20;
+The Regen Registry and Science teams seek to grow the community around the development of ecocredit standards, the Registry Guide, and the culture of Regen Registry as a community-driven regenerative registry. We use Hylo as the platform to encourage collaboration, support, and participation in this community. We invite all those with a desire to work with Regen Registry to join our community on Hylo.&#x20;
 
 This Guide illustrates how Regen Registry community members can engage with the Regen Registry and Science teams and with each other using the Regen Registry Hylo group. Find step by step instructions to orient you to the group, subgroups and Hylo’s functionality.&#x20;
 
@@ -27,7 +27,7 @@ If you are interested in joining Hylo you can create an account [here](https://w
 {% tab title="Joining Groups in Hylo" %}
 
 
-1. In Hylo, a user can to join many groups and subgroups and they will be located in the group tab on the left of the screen. As more groups are joined, the stream, projects, and event pages will populate the the content of the new groups
+1. In Hylo, a user can join groups and subgroups and they will be located in the group tab on the left of the screen. As more groups are joined, the stream, projects, and event pages will populate the content of the new groups
    * These are all the groups that a user can join as a member of the Regen Registry group; however, some of them require admin approval
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-04-27 at 11.38.39 AM.png" alt=""><figcaption></figcaption></figure>
@@ -42,12 +42,12 @@ If you are interested in joining Hylo you can create an account [here](https://w
 {% endtab %}
 
 {% tab title="Posting " %}
-1. One of the most important ways to engage with the community is through posting questions, events, and projects on Stream&#x20;
+1. One of the most important ways to engage with the community is through posting questions, events, and resources on Stream&#x20;
 2. Post by clicking the create button on the left side bar
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-04-27 at 11.43.11 AM.png" alt=""><figcaption></figcaption></figure>
 
-3. Once creating the post, decide what kind of post it will be, the topic the title, as well as how many groups to post in
+3. Once in the post creation box, decide what kind of post it will be, the topics (hashtags), the title. You can cross post the same item in more than one group.&#x20;
 
 
 {% endtab %}
@@ -63,13 +63,13 @@ If you are interested in joining Hylo you can create an account [here](https://w
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-04-27 at 11.47.07 AM.png" alt=""><figcaption></figcaption></figure>
 
-3. Additionally, if a user has an event that to share with the community, post it here by using the create button on the left side bar
+3. Additionally, if a user has an event to share with the community, post it here by using the create button on the left side bar
 
 ####
 {% endtab %}
 
 {% tab title="Members" %}
-The Member and Maps pages allow users to find new members in the community or members with similar interests. Discover hobbies, where people are located, and their interests
+The Member and Maps pages allow users to find new members in their bioregion or based on similar skills, interests or areas of work.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2023-04-27 at 12.09.54 PM.png>)
 
@@ -79,7 +79,7 @@ The Member and Maps pages allow users to find new members in the community or me
 {% tab title="Resources & Projects " %}
 #### Resources
 
-1. All of the groups have resources available for viewing that can be found on the left sidebar under Map. For Regen Registry main page, we link out the Registry Homepage and the Registry Guide. Each group will have different resources.&#x20;
+1. All of the groups have group-specific resources available for viewing that can be found listed under the left sidebar below Map. For Regen Registry main page, we link out the Registry Homepage and the Registry Guide. Each group will have different resources.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-04-27 at 11.57.02 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +90,7 @@ The Member and Maps pages allow users to find new members in the community or me
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-04-27 at 12.00.41 PM.png" alt=""><figcaption></figcaption></figure>
 
-3. At this time, projects from child groups automatically projects within child groups will be empty as we configure relationships between child groups and the main Regen Registry group.&#x20;
+3. Projects from child groups will automatically populate in the main group. At this time, child groups projects tab will be empty as we configure relationships between child groups and the main Regen Registry group.&#x20;
 {% endtab %}
 {% endtabs %}
 
