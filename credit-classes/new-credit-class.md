@@ -26,9 +26,7 @@ Process Documentation -In adherence to our values of the highest level of transp
 
 
 
-For examples of existing credit classes to provide guidance on how to write a credit class visit the [Regen Registry Library](https://library.regen.network/) and the&#x20;
-
-
+For examples of existing credit classes to provide guidance on how to write a credit class visit the [Regen Registry Library](https://library.regen.network/)
 
 
 

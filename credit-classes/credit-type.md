@@ -2,12 +2,12 @@
 description: >-
   Each credit class is associated with a credit type that defines the primary
   unit of measurement used to quantify the ecological asset being traded (i.e.
-  carbon, biodiversity, etc.).
+  carbon, biodiversity, etc).
 ---
 
 # Credit Type
 
-Carbon credits, for example, represent a metric ton of CO2e, which is a standard used to measure greenhouse gas emissions. This unit of measurement can be used across a variety of credit classes. Reforestation projects, grazing practices, and blue carbon projects all focus on carbon sequestration and share the same credit type (carbon) despite corresponding to different credit classes.
+Carbon credits, for example, represent a metric ton of CO2e, which is a standard used to measure greenhouse gas emissions. This unit of measurement can be used across a variety of credit classes. Reforestation projects, grazing practices, and blue carbon projects all focus on carbon sequestration and share the same credit type (carbon) despite corresponding to different credit classes.  Regen is exploring new credit types with various partners based on metrics of biodiversity health, environmental stewardship, water, etc.
 
 New credit types can be created via going through an on-chain governance proposal.&#x20;
 
