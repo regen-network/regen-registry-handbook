@@ -25,8 +25,6 @@ If you are interested in joining Hylo you can create an account [here](https://w
 {% endtab %}
 
 {% tab title="Joining Groups in Hylo" %}
-
-
 1. In Hylo, a user can join groups and subgroups and they will be located in the group tab on the left of the screen. As more groups are joined, the stream, projects, and event pages will populate the content of the new groups
    * These are all the groups that a user can join as a member of the Regen Registry group; however, some of them require admin approval
 
@@ -69,7 +67,7 @@ If you are interested in joining Hylo you can create an account [here](https://w
 {% endtab %}
 
 {% tab title="Members" %}
-The Member and Maps pages allow users to find new members in their bioregion or based on similar skills, interests or areas of work.&#x20;
+1. The Member and Maps pages allow users to find new members in their bioregion or based on similar skills, interests or areas of work.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2023-04-27 at 12.09.54 PM.png>)
 
