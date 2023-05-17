@@ -6,7 +6,9 @@ description: >-
 
 # Definitions
 
-### **User Definitions**&#x20;
+### **User Definitions**
+
+### **These definitions are derived from the** [**Regen Marketplace Terms of Service**](https://docs.google.com/document/d/1eChBI3EMQYF\_wJWOTHgjtKsCPafoHzI\_BQnyMYp4Tts/edit?usp=sharing)**.**&#x20;
 
 **Broker** - An individual or organization offering brokerage services to credit owners.&#x20;
 
@@ -125,4 +127,6 @@ description: >-
 **RND** - Regen Network Development, Inc , the entity developing and operating Regen Registry. Also referred to in this document as Regen Network.&#x20;
 
 **SDG** - the United Nations’ Sustainable Development Goals.
+
+_The_ [_Regen Marketplace Terms of Service_](https://docs.google.com/document/d/1eChBI3EMQYF\_wJWOTHgjtKsCPafoHzI\_BQnyMYp4Tts/edit?usp=sharing) _definitions take precident over these definitions in the instance that there is a discrepancy between the terms and definitions listed in that document and the terms as listed here._
 
