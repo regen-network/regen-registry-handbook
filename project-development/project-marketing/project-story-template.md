@@ -1,7 +1,7 @@
 ---
 description: >-
   Each project proponent registering a project must submit a project story with
-  key information about project and project media.
+  key information about the project and project media.
 ---
 
 # Project Story Template
