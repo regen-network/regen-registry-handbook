@@ -25,4 +25,8 @@ Some advantages of this credit class structure are:
 
 **Visit the** [**Regen Registry Library**](https://library.regen.network/) **for a list of current credit classes.**
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/Credit Class.png" alt=""><figcaption></figcaption></figure>
+
+</div>

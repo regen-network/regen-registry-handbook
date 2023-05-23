@@ -10,7 +10,7 @@ The overall Project Development process includes:&#x20;
   * Project plan submission
   * Project validation
   * Project approval&#x20;
-* [Project Marketing](project-marketing.md)
+* [Project Marketing](project-marketing/)
   * Project story&#x20;
 * [Credit Issuance ](credit-issuance.md)
   * Project lifecycle&#x20;
