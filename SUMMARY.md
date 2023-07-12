@@ -43,7 +43,7 @@
   * [Project Plan Template](project-development/project-plan-template/README.md)
     * [Project Plan Example](project-development/project-plan-template/project-plan-example.md)
 * [Project Marketing](project-development/project-marketing.md)
-  * [Project Story Template](project-development/project-marketing/project-story-template.md)
+  * [Project Page Template](project-development/project-marketing/project-page-template.md)
 * [Credit Issuance](project-development/credit-issuance.md)
 
 ## Monitoring
