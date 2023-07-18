@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Regen Registry Guide](README.md)
+* [Regen Registry Handbook](README.md)
 
 ## Regen Registry Overview
 
