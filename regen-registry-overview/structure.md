@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Gitbook - Regen Registry.png
+coverY: 0
+---
+
 # Structure
 
 The Regen Registry can be divided into three main sections:

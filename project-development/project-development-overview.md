@@ -2,6 +2,8 @@
 description: >-
   Project Development is the process of registering and implementing a project
   on Regen Registry
+cover: ../.gitbook/assets/Gitbook - Regen Registry (3).png
+coverY: 0
 ---
 
 # Project Development Overview

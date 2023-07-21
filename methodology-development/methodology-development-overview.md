@@ -3,6 +3,8 @@ description: >-
   To certify your project on legacy registries it is required to adhere to
   posted standards, processes and requirements. Regen Registry’s high integrity
   approach is more flexible, and affordable.
+cover: ../.gitbook/assets/Gitbook - Regen Registry (1).png
+coverY: 0
 ---
 
 # Methodology Development Overview
@@ -19,7 +21,7 @@ As a methodology is being developed, Regen Registry and Regen Science Team are a
 
 The development of a methodology should include:&#x20;
 
-Research into existing approved methodologies in the [Regen Registry Methodology Library](http://localhost:5000/o/HLlZLPGRtuSIEfuq1a8I/s/H1QmzemVpWDCJv0QlPOj/) and those listed on other registries that may be similar, are tested and can be used as models for your methodology.&#x20;
+Research into existing approved methodologies in the [Regen Registry Methodology Library](http://127.0.0.1:5000/o/HLlZLPGRtuSIEfuq1a8I/s/H1QmzemVpWDCJv0QlPOj/) and those listed on other registries that may be similar, are tested and can be used as models for your methodology.&#x20;
 
 If using a methodology from an outside registry, it is the methodology developers responsibility to contact the author of the methodology to ask for permission to use that methodology. Cited resources and/or first hand interviews and accounts of regenerative work and observed successes from knowledgeable and experienced Earth stewards in the projects specified ecosystem outline of researched monitoring approach including monitoring protocols and frequency description of verification process.
 

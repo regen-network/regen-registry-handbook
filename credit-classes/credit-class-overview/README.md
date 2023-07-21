@@ -3,6 +3,8 @@ description: >-
   While a subset of credit classes may initially be developed by Regen Registry,
   the intention is to build a vibrant community of credit designers that will
   take the lead going forward.
+cover: ../../.gitbook/assets/Gitbook - Regen Registry (2).png
+coverY: 0
 ---
 
 # Credit Class Overview

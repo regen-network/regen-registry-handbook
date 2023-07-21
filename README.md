@@ -1,7 +1,7 @@
 ---
 description: A resource outlining the process of engaging with Regen Registry
-cover: .gitbook/assets/geran-de-klerk-216686-unsplash.jpg
-coverY: 951.4237855946399
+cover: .gitbook/assets/Gitbook - Regen Registry (5) (1).png
+coverY: 0
 ---
 
 # Regen Registry Handbook
