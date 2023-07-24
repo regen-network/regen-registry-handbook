@@ -32,5 +32,6 @@ Peer reviewers should expect to commit 4-8 hours to the task.&#x20;
 * A maximum a round of 3 reviews will be completed&#x20;
 * Payment - $300 stipend&#x20;
 * Goal will be to complete the process within 3 -4 weeks with variability expected depending on response times.
+* Your name will appear on the project documentation as an Expert Peer Reviewer&#x20;
 
 Interested?  Fill out our [Expert Peer Review](https://airtable.com/shrbKRhZUUQXhVI50) inquiry form!

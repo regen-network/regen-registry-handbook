@@ -7,7 +7,7 @@ The methodology review process consists of four stages before it is published on
 1. [Informal Feedback from Regen Registry & Regen Network Community](methodology-review-process.md#informal-feedback-from-regen-registry-and-regen-network-community)
 2. [Internal Review](methodology-review-process.md#internal-review) (4 weeks)
 3. [Expert Peer Review](methodology-review-process.md#expert-peer-review) (approx. 3-6 months)
-4. [Public Comment](methodology-review-process.md#public-comment) (15 days)
+4. [Public Comment](methodology-review-process.md#public-comment) (30 days)
 
 Each of these stages are described below. The length of time to complete the expert peer review depends on availability and response time of expert peer reviewers as well as the amount of comments to address and review cycles needed for the methodology review lead to approve the methodology.
 
@@ -65,7 +65,7 @@ In addition to review comments, the expert peer reviewer should also indicate if
 
 ## Public Comment
 
-After a methodology has successfully completed the Expert Peer Review process it will advance to the final review stage, Public Comment. Comments about the methodology will be solicited from the general public for a period of 15 days. The public commenting period will be announced using Regen Network Development (RND) typical social media platforms (ie [RND Discord server](https://discord.com/invite/guw5TGzCFR) and [Twitter](https://twitter.com/regen\_network?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
+After a methodology has successfully completed the Expert Peer Review process it will advance to the final review stage, Public Comment. Comments about the methodology will be solicited from the general public for a period of 15 days. The public commenting period will be announced using Regen Network Development (RND) typical social media platforms (ie [RND Hylo](https://www.hylo.com/groups/regen-registry-public-comment) and [Twitter](https://twitter.com/regen\_network?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
 
 Methodologies open to Public Comment are posted on the Call for Public Comment page can be made through the Public Comment templates provided there.  People submitting comments directly will have the option to remain anonymous (the default option) or they can request to have their name attached to the comments.
 
