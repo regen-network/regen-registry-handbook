@@ -8,7 +8,7 @@ description: >-
 
 ### **User Definitions**
 
-### **These definitions are derived from the** [**Regen Marketplace Terms of Service**](https://docs.google.com/document/d/1eChBI3EMQYF\_wJWOTHgjtKsCPafoHzI\_BQnyMYp4Tts/edit?usp=sharing)**.**&#x20;
+
 
 **Broker** - An individual or organization offering brokerage services to credit owners.&#x20;
 
