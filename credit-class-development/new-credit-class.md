@@ -22,7 +22,7 @@ The following process is applied to all new credit classes:
 
 Public Comment - The credit class is posted publicly to [Regen Registry Public Comment](http://127.0.0.1:5000/s/H1QmzemVpWDCJv0QlPOj/methodologies-and-credit-classes-in-review/call-for-public-comment) for a minimum of 15 days.  At the conclusion of the Public Comment period, the comments are compiled into a report and sent to the credit designer, who then has 30 days to respond to comments in writing and incorporate relevant feedback into a revised version.
 
-Process Documentation -In adherence to our values of the highest level of transparency and integrity of credits, Regen Registry documents the entire credit class approval process including feedback and revisions from Internal Review, Expert Peer Review. This process is then made public as part of the project’s profile on the Regen Marketplace.
+Process Documentation - In adherence to our values of the highest level of transparency and integrity of credits, Regen Registry documents the entire credit class approval process including feedback and revisions from internal review, expert peer review. This process is then made public as part of the project’s profile on the Regen Marketplace.
 
 
 

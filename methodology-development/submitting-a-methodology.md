@@ -2,7 +2,7 @@
 
 ### Where to Start
 
-A lot can go into writing a new methodology. It might seem like an overwhelming process, but we’re here to help! Regen recognizes the great work of other registry programs. Prior to developing a methodology, take a look to see if there is a similar methodology that is already approved on our program or other accepted programs either from our [Methodology Library](http://library.regen.network) or from our list of approved third party programs:
+It might seem like an overwhelming process, but we’re here to help! Prior to developing a methodology, take a look to see if there is a similar methodology that is already approved on our program or other accepted programs either from our [Methodology Library](http://library.regen.network) or from various third party programs such as:
 
 * Gold Standard
 * American Carbon Registry
@@ -13,7 +13,7 @@ A lot can go into writing a new methodology. It might seem like an overwhelming 
 * Verified Carbon Standard (VCS) Registry
 * Climate, Carbon, & Biodiversity Standards (CCBS) Registry
 
-If you plan to use a methodology from an existing registry program and would like to consider adding to this list, please contact us at registry@regen.network.
+If you plan to use a methodology from another existing registry program and would like to consider adding to this list, please contact us at registry@regen.network.
 
 {% hint style="info" %}
 At this time, Regen Registry requires all parties to review and sign the [Regen Registry Terms of Service](https://docs.google.com/document/d/1WGvPI5NjsS4WhMCL3AyRa0oHP6j2R34YByNVRo8XDkA/edit#heading=h.ew69mclrluk) to legally engage with and fully understand definitions, contracts and processes of working with Regen Registry. If you plan on submitting a methodology to the Regen Registry program, please review our terms of service and our team will contact you upon submission. Please contact registry@regen.network with any questions.
@@ -21,7 +21,7 @@ At this time, Regen Registry requires all parties to review and sign the [Regen 
 
 ### Submitting a Fully Developed Methodology
 
-To submit a methodology that has already gone through a peer review process, or exists on another registry, please submit through our [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/tblwQcFn0ENeG5KXR/viwBZ1ohLmEQ84z6Z?blocks=hide). Your methodology will undergo Regen Network’s methodology review process and our science team will get back to you with next steps.
+To submit a methodology that has already gone through a peer review process, or exists on another registry, please submit through our [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g). Your methodology will be reviewed by our Registry and Science Teams and we will get back to you with next steps.
 
 ### Submitting a New Methodology
 
@@ -31,16 +31,12 @@ A concept note is a short proposal of an idea for a project or methodology. If y
 
 Use the [Concept Note Submission Form](https://airtable.com/shrunsKASd5BDfI0N) to submit a concept note. Upon submission, our team will review and respond within 3 weeks to approve or suggest edits required for approval.
 
-{% hint style="info" %}
-Want to see what methodologies are currently in development on Regen Registry? Check out our Credit & Methodologies in Development at [Built on Regen](https://www.notion.so/regennetwork/Built-on-Regen-Network-c6266114116842e389258747454f9f07).
-{% endhint %}
-
 #### Submit Your Methodology
 
-​​Your methodology draft should aim to outline standards and tools to monitor the ecological, environmental, and social indicators covered by your nature-based solution. Your approach can be region specific or cover a wide range of locations.
+​​Your methodology draft should outline standards and tools to monitor the ecological, environmental, and social indicators covered by your nature-based solution. Your approach can be region specific or cover a wide range of locations.
 
-At this time, if you plan to register a new methodology with Regen Registry, we require that you go through the expert peer review and a two-week public comment period to register a methodology with the Regen Registry. We are working on options for a potentially less rigorous review processes.
+At this time, if you plan to register a new methodology with Regen Registry, we require that you go through the expert peer review and a two-week public comment period to register a methodology with the Regen Registry. We are working on options for a permissionless processes.
 
-When you are ready to submit, use the [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/tblwQcFn0ENeG5KXR/viwBZ1ohLmEQ84z6Z?blocks=hide) to submit a methodology draft for internal review.
+When you are ready to submit, use the [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g) to submit a methodology draft for internal review.
 
-For more information on methodology submission requirements and the continued development process go to the methodology developments process chapter.
+For more information on methodology submission requirements and the continued development process please read the [Methodology Developments Overview](methodology-development-overview.md) chapter.
