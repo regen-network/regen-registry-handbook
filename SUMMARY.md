@@ -19,21 +19,21 @@
 * [Methodology Review Process](methodology-development/methodology-review-process.md)
 * [Who are Expert Peer Reviewers](methodology-development/who-are-expert-peer-reviewers.md)
 
-## Credit Classes
+## Credit Class Development
 
-* [Credit Class Overview](credit-classes/credit-class-overview/README.md)
-  * [Credit Class Defined](credit-classes/credit-class-overview/credit-class-defined.md)
-* [Credit Class vs Methodology](credit-classes/credit-class-vs-methodology.md)
-* [New Credit Class](credit-classes/new-credit-class.md)
-* [Credit Type](credit-classes/credit-type.md)
-* [Management](credit-classes/management/README.md)
-  * [Issuance](credit-classes/management/issuance.md)
-  * [Credit Class Creator Allow List](credit-classes/management/credit-class-creator-allow-list.md)
-  * [Modifications to Approved Credit Classes](credit-classes/management/modifications-to-approved-credit-classes.md)
-* [Co-Benefits](credit-classes/co-benefits.md)
-* [Governance](credit-classes/governance.md)
-* [Writing a Credit Class - Guidelines](credit-classes/writing-a-credit-class-guidelines/README.md)
-  * [Credit Class Template](credit-classes/writing-a-credit-class-guidelines/credit-class-template.md)
+* [Credit Class Overview](credit-class-development/credit-class-overview/README.md)
+  * [Credit Class Defined](credit-class-development/credit-class-overview/credit-class-defined.md)
+* [Credit Class vs Methodology](credit-class-development/credit-class-vs-methodology.md)
+* [New Credit Class](credit-class-development/new-credit-class.md)
+* [Credit Type](credit-class-development/credit-type.md)
+* [Management](credit-class-development/management/README.md)
+  * [Issuance](credit-class-development/management/issuance.md)
+  * [Credit Class Creator Allow List](credit-class-development/management/credit-class-creator-allow-list.md)
+  * [Modifications to Approved Credit Classes](credit-class-development/management/modifications-to-approved-credit-classes.md)
+* [Co-Benefits](credit-class-development/co-benefits.md)
+* [Governance](credit-class-development/governance.md)
+* [Writing a Credit Class - Guidelines](credit-class-development/writing-a-credit-class-guidelines/README.md)
+  * [Credit Class Template](credit-class-development/writing-a-credit-class-guidelines/credit-class-template.md)
 
 ## Project Development
 
