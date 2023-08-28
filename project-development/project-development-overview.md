@@ -16,7 +16,7 @@ Projects are developed by methodology developers, project developers or Earth st
 
 During the project term, changes in ecological state are monitored to track how successfully the methodology was implemented and calculate the number of credits eligible to be sold in the market.&#x20;
 
-## Overall Project Development Process
+## Project Development Process
 
 * [Project Registration](project-registration/)
   * [Project plan submission](project-plan-template/)
