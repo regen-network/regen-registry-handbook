@@ -4,7 +4,7 @@
 
 This guide outlines the process for project proponents to register a project with the Regen Registry. Regen Registry welcomes a variety of ecological accounting projects. The phases outlined below are designed for GHG emission reduction and/or removal projects but can be adjusted for other types of ecological outcomes.&#x20;
 
-The role of the Regen Registry is to review  the project submission for completeness and compatibility with the credit class and approved methodology. Additional information may be requested as needed. If the project is approved, the contract can be signed between the project proponent and Regen Registry.&#x20;
+The role of the Regen Registry is to review the project submission for completeness and compatibility with the credit class and approved methodology. Additional information may be requested as needed. If the project is approved, the contract can be signed between the project proponent and Regen Registry.&#x20;
 
 The Project Registration process includes the following phases:
 
@@ -28,12 +28,9 @@ Regen Registry encourages that all or the majority of the information is shared 
 Once the project plan has been submitted, the project will move into project validation to ensure projects:
 
 * Pass project eligibility checks specified in the approved credit class and methodology
-* Successfully generate GHG emission removal and/or reductions expected using the models and methods outlined in the project plan.&#x20;
-
-The project validation process consists of these two  steps in this order:
-
-1. Internal Validation&#x20;
-2. Third Party Validation
+* Successfully generate GHG emission removal and/or reductions expected using the models and methods outlined in the project plan including:&#x20;
+  * Internal Validation&#x20;
+  * Third Party Verification
 
 #### Internal Validation
 
@@ -50,7 +47,7 @@ The Regen Registry team may require additional adjustments to the documentation 
 
 #### Third Party Validation
 
-In addition to internal validation, project proponents may need third-party validation if required by the credit class. Third-party validations, often by a validation/verification body (VVB), provide extra assurance that a project follows the rules and requirements in the credit class and [Regen Registry Guide: Program Rules and Regulations](https://library.regen.network/v/regen-registry-program-guide/regen-registry-overview/program-rules-and-requirements). Fees for third party validation are decided by the project proponent and the third party.
+In addition to internal validation, project proponents may need third-party verification as required by the credit class. Third-party verifications, often by a validation/verification body (VVB), provide extra assurance that a project follows the rules and requirements in the credit class and [Regen Registry Guide: Program Rules and Regulations](../../regen-registry-overview/program-rules-and-requirements.md). Fees and agreements for third party verification are decided by the project proponent and the third party.
 
 
 {% endtab %}
