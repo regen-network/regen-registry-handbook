@@ -42,11 +42,11 @@
 * [Project Registration](project-development/project-registration/README.md)
   * [Project Plan Template](project-development/project-plan-template/README.md)
     * [Project Plan Example](project-development/project-plan-template/project-plan-example.md)
+* [Monitoring](project-development/monitoring-overview/README.md)
+  * [Monitoring Report Template](project-development/monitoring-overview/monitoring-report-template.md)
 * [Project Marketing](project-development/project-marketing.md)
   * [Project Page Template](project-development/project-marketing/project-page-template.md)
-* [Credit Issuance](project-development/credit-issuance.md)
 
-## Monitoring
+## Credit Issuance
 
-* [Monitoring Overview](monitoring/monitoring-overview/README.md)
-  * [Monitoring Report Template](monitoring/monitoring-overview/monitoring-report-template.md)
+* [Credit Issuance](credit-issuance/credit-issuance.md)
