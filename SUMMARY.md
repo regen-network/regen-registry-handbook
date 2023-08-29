@@ -42,8 +42,9 @@
 * [Project Registration](project-development/project-registration/README.md)
   * [Project Plan Template](project-development/project-plan-template/README.md)
     * [Project Plan Example](project-development/project-plan-template/project-plan-example.md)
-* [Monitoring](project-development/monitoring-overview/README.md)
-  * [Monitoring Report Template](project-development/monitoring-overview/monitoring-report-template.md)
+* [Monitoring & Verification](project-development/monitoring-overview/README.md)
+  * [Monitoring Report & Template](project-development/monitoring-overview/monitoring-report-and-template.md)
+  * [Verfication](project-development/monitoring-overview/verfication.md)
 * [Project Marketing](project-development/project-marketing.md)
   * [Project Page Template](project-development/project-marketing/project-page-template.md)
 

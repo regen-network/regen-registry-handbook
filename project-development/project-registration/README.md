@@ -12,7 +12,7 @@ The Project Registration process includes the following phases:
 {% tab title="Project Plan Submission" %}
 Each project proponent registering a project must submit a project plan with key information for the credit class and approved methodology. Regen Registry offers a generic [project plan template ](https://drive.google.com/file/d/19pYU0N69IDpeav6Hk747l1w0-a5-i53o/view?usp=share\_link)to adapt for each credit class. Please download the [project plan template](https://docs.google.com/document/d/1p\_HN4Q5vUjp3hni04lLFGYuAUPoB60a9Tc-I6PObZOo/copy) and submit it using the [Project Registration Submission](https://airtable.com/shrYitbUuFQcD8jcT) form. Project proponents may use other templates if the final document demonstrates sufficient information to register a project. &#x20;
 
-As applicable, monitoring reports should be submitted with the project plan. See Regen Registry [Monitoring Report Template](../monitoring-overview/monitoring-report-template.md).&#x20;
+As applicable, monitoring reports should be submitted with the project plan. See Regen Registry [Monitoring Report Template](../monitoring-overview/monitoring-report-and-template.md).&#x20;
 
 Project proponents may request to designate portions of the project plan or project  documentation as personal / commercially sensitive information. This information must be available for review by Regen Registry and, if applicable, the approved verifier (with non-disclosure agreements, as necessary), but will not be posted publicly as part of the project documentation on the project page unless specifically allowed. Examples of sensitive information include:
 
@@ -30,7 +30,7 @@ Once the project plan has been submitted, the project will move into project val
 * Pass project eligibility checks specified in the approved credit class and methodology
 * Successfully generate GHG emission removal and/or reductions expected using the models and methods outlined in the project plan including:&#x20;
   * Internal Validation&#x20;
-  * Third Party Verification
+  * Third Party Validation
 
 #### Internal Validation
 
