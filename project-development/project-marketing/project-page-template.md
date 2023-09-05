@@ -6,11 +6,8 @@ description: >-
 
 # Project Page Template
 
-### [Downloadable Project Page Template](https://docs.google.com/document/d/1AoD0JDDizdKObAmoTcH6g9MHmB96UN4jJGGpjIWhipE/copy)
-
-
+[Downloadable Project Page Template](https://docs.google.com/document/d/1AoD0JDDizdKObAmoTcH6g9MHmB96UN4jJGGpjIWhipE/copy)
 
 **Preview of Project Page Template:**&#x20;
 
-{% file src="../../.gitbook/assets/Preview_Project Page V1.pdf" %}
-
+{% embed url="https://drive.google.com/file/d/1B9uiNF8uqq-jhqNR9vCXdWda0QMz7cKb/view?usp=sharing" %}
