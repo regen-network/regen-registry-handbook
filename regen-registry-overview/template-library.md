@@ -10,7 +10,7 @@ description: A listing of resource templates for Regen Registry
 
 **Project Plan Template**
 
-* [Downloadable Project Plan template ](https://docs.google.com/document/d/1UNU0pcNoi44b7mHnLFTeYhVhpdhBDEOQCJfHXvmvMmI/copy)
+* [Downloadable Project Plan Template ](https://docs.google.com/document/d/1UNU0pcNoi44b7mHnLFTeYhVhpdhBDEOQCJfHXvmvMmI/copy)
 
 **Monitoring Report Template**
 
