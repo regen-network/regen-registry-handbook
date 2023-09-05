@@ -6,6 +6,14 @@ The Program Rules and Requirements details the general requirements and specific
 
 This document provides project stakeholders with  programmatic structure from Regen Registry to develop projects, including credit classes and methodologies, the project registration process, project eligibility, and the issuance of tradable environmental assets to projects. &#x20;
 
-### Regen Registry Program Guide v 1.0&#x20;
+### [Regen Registry Program Guide v 1.1](https://registry-program-guide.regen.network/)&#x20;
 
-{% embed url="https://regen-registry.s3.amazonaws.com/Regen+Registry+Program+Guide.pdf" %}
+[Downloadable pdf Program Guide 1.1 ](https://registry-program-guide.regen.network/pdf/program-guide.pdf)
+
+Preview of Program Guide v 1.1:&#x20;
+
+{% embed url="https://drive.google.com/file/d/1f6HRW6V5k3Y_e19qjIYFWG0x1Tn7RcBc/view?usp=share_link" %}
+
+### Regen Registry Program Guide v 1.0
+
+{% file src="../.gitbook/assets/Regen Registry Program Guide V1.0 .pdf" %}
