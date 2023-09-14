@@ -7,7 +7,7 @@ The methodology review process consists of four stages before the methodology is
 1. [Informal Feedback from Regen Registry & Regen Network Community](methodology-review-process.md#informal-feedback-from-regen-registry-and-regen-network-community)
 2. [Internal Review](methodology-review-process.md#internal-review) (4 weeks)
 3. [Expert Peer Review](methodology-review-process.md#expert-peer-review) (approx. 3-6 months)
-4. [Public Comment](methodology-review-process.md#public-comment) (30 days)
+4. [Public Comment](methodology-review-process.md#public-comment) (14 - 30 days)
 
 Each stage is described below. The length of time to complete the expert peer review depends on availability and response time of expert peer reviewers as well as the amount of comments to address and number of review cycles needed for the methodology review lead to approve the methodology.
 

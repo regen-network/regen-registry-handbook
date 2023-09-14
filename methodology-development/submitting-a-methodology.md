@@ -21,22 +21,24 @@ At this time, Regen Registry requires all parties to review and sign the [Regen 
 
 ### Submitting a Fully Developed Methodology
 
-To submit a methodology that has already gone through a peer review process, or exists on another registry, please submit through our [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g). Your methodology will be reviewed by our Registry and Science Teams and we will get back to you with next steps.
+To submit a methodology that has already gone through a peer review process, or exists on another registry, please submit through our [Methodology & Credit Class Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g). Your methodology will be reviewed by our Registry and Science Teams and we will get back to you with next steps.
 
 ### Submitting a New Methodology
 
 #### Submit a Concept Note
 
-A concept note is a short proposal of an idea for a project or methodology. If you are a researcher or project developer with an idea for a methodology, whether for monitoring a particular ecosystem change or an approach to address environmental and societal challenges, a concept note is a good starting point to get your thoughts on paper. Ideas can range from a fully developed concept note to a rough draft.
+A concept note is a short proposal of an idea for a project or methodology and/or credit class. If you are a researcher or project developer with an idea for a methodology and/or credit class, whether for monitoring a particular ecosystem change or an approach to address environmental and societal challenges, a concept note is a good starting point to get your thoughts on paper. Ideas can range from a fully developed concept note to a rough draft.
 
 Use the [Concept Note Submission Form](https://airtable.com/shrunsKASd5BDfI0N) to submit a concept note. Upon submission, our team will review and respond within 3 weeks to approve or suggest edits required for approval.
 
-#### Submit Your Methodology
+#### Submit Your Methodology&#x20;
 
 ​​Your methodology draft should outline standards and tools to monitor the ecological, environmental, and social indicators covered by your nature-based solution. Your approach can be region specific or cover a wide range of locations.
 
-At this time, if you plan to register a new methodology with Regen Registry, we require that you go through the expert peer review and a two-week public comment period to register a methodology with the Regen Registry. We are working on options for a permissionless processes.
+At this time, if you plan to register a new methodology with Regen Registry, we require that you go through internal review, expert peer review and a two-week public comment period to register a methodology with the Regen Registry. We also ask that you submit your credit class at the same time as your methodology.  While the credit class and methodology are separate documents, Regen Registry requests that they be submitted together for internal and expert peer review process. The reasoning for this is that traditionally the contents of these documents have been combined into the methodology so the Regen Registry asks that they be submitted together due to the correlative nature of their content. &#x20;
 
-When you are ready to submit, use the [Methodology Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g) to submit a methodology draft for internal review.
+Note: We are working on options for a permissionless processes.
+
+When you are ready to submit, use the [Methodology & Credit Class Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g) to submit a methodology draft for internal review.
 
 For more information on methodology submission requirements and the continued development process please read the [Methodology Developments Overview](methodology-development-overview.md) chapter.
