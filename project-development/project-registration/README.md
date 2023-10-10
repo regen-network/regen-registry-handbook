@@ -2,19 +2,19 @@
 
 ### Registration Process Overview
 
-This guide outlines the process for project proponents to register a project with the Regen Registry. Regen Registry welcomes a variety of ecological accounting projects. The phases outlined below are designed for GHG emission reduction and/or removal projects but can be adjusted for other types of ecological outcomes.&#x20;
+This chapter outlines the process for project proponents to register a project with the Regen Registry. The examples of phases outlined below are designed for GHG emission reduction and/or removal projects but can be adjusted for other types of ecological outcomes.&#x20;
 
-The role of the Regen Registry is to review the project submission for completeness and compatibility with the credit class and approved methodology. Additional information may be requested as needed. If the project is approved, the contract can be signed between the project proponent and Regen Registry.&#x20;
+The role of Regen Registry is to review the project registration documents submitted for completeness and compatibility with the credit class and approved methodology. Additional information may be requested as needed.&#x20;
 
 The Project Registration process includes the following phases:
 
 {% tabs %}
 {% tab title="Project Plan Submission" %}
-Each project proponent registering a project must submit a project plan with key information for the credit class and approved methodology. Regen Registry offers a generic [project plan template ](https://drive.google.com/file/d/19pYU0N69IDpeav6Hk747l1w0-a5-i53o/view?usp=share\_link)to adapt for each credit class. Please download the [project plan template](https://docs.google.com/document/d/1p\_HN4Q5vUjp3hni04lLFGYuAUPoB60a9Tc-I6PObZOo/copy) and submit it using the [Project Registration Submission](https://airtable.com/shrYitbUuFQcD8jcT) form. Project proponents may use other templates if the final document demonstrates sufficient information to register a project. &#x20;
+Each project proponent registering a project must submit a project plan with key information for the credit class and approved methodology. Regen Registry offers a template of a generic [project plan ](https://drive.google.com/file/d/19pYU0N69IDpeav6Hk747l1w0-a5-i53o/view?usp=share\_link)to adapt for each credit class. Please download the editable [project plan template](https://docs.google.com/document/d/1p\_HN4Q5vUjp3hni04lLFGYuAUPoB60a9Tc-I6PObZOo/copy) and submit it using the [Project Registration Submission](https://airtable.com/shrYitbUuFQcD8jcT) form. Project proponents may use other templates if the final document demonstrates sufficient information to register a project. &#x20;
 
 As applicable, monitoring reports should be submitted with the project plan. See Regen Registry [Monitoring Report Template](../monitoring-overview/monitoring-report-and-template.md).&#x20;
 
-Project proponents may request to designate portions of the project plan or project  documentation as personal / commercially sensitive information. This information must be available for review by Regen Registry and, if applicable, the approved verifier (with non-disclosure agreements, as necessary), but will not be posted publicly as part of the project documentation on the project page unless specifically allowed. Examples of sensitive information include:
+Project proponents may request to designate portions of the project plan or project  documentation as personal/commercially sensitive information. This information must be available for review by Regen Registry and, if applicable, the approved verifier (with non-disclosure agreements, as necessary), but will not be posted publicly as part of the project documentation on the project page unless specifically allowed. Examples of sensitive information include:
 
 * Entity name and contact information
 * Land tenure category (public, private, communal)

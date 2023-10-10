@@ -11,6 +11,6 @@ Submit the project plan using the [Project Registration Submission](https://airt
 
 [Downloadable Project Plan template ](https://docs.google.com/document/d/1UNU0pcNoi44b7mHnLFTeYhVhpdhBDEOQCJfHXvmvMmI/copy)
 
-Preview of Project Plan Template:
+[Preview of Project Plan Template](https://drive.google.com/file/d/19pYU0N69IDpeav6Hk747l1w0-a5-i53o/view)
 
 {% embed url="https://drive.google.com/file/d/16Axv1mbNXt03WkykxA0HTHrebhVEKJ-5/view?usp=share_link" %}
