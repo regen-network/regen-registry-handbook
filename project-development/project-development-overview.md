@@ -29,8 +29,8 @@ During the project term, changes in ecological state are monitored to track how 
 
 
 
-Once the data is verified credits can be created to list in on [Regen Ledger](https://docs.regen.network/) and sell through the [Regen Marketplace](https://app.regen.network/)
+Once the data is verified credits can be created to list in on [Regen Ledger](https://docs.regen.network/) and sold through the [Regen Marketplace](https://app.regen.network/)
 
-Regen Registry provides support to project developers and Earth stewards throughout the project development process with the following: templates, documentation reviews and open source science tools. The Regen Registry and Science teams rely on activating Regen Network community members, such as monitoring service providers, to support in the success of projects on the Regen Registry.
+Regen Registry provides support to project developers and Earth stewards throughout the project development process with the following: templates, documentation reviews and open source science tools.&#x20;
 
 <figure><img src="../.gitbook/assets/Overall Process.png" alt=""><figcaption></figcaption></figure>
