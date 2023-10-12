@@ -6,7 +6,7 @@ This chapter outlines the process for project proponents to register a project w
 
 The role of Regen Registry is to review the project registration documents submitted for completeness and compatibility with the credit class and approved methodology. Additional information may be requested as needed.&#x20;
 
-The Project Registration process includes the following phases:
+Project Registration begins with Project Application that includes the following steps:
 
 {% tabs %}
 {% tab title="Project Plan Submission" %}
@@ -43,7 +43,7 @@ Projects will be reviewed by the Regen Registry using the following criteria:
 * If a GHG Emission reduction and/or removal project as specified by methodology and credit class:
   * Regen Registry can recommend further assessment of projected GHG emissions reduction and/or removal estimates based on models, methodology equations and project-specific contexts
 
-The Regen Registry team may require additional adjustments to the documentation submitted. If so, the project owner must make the changes and resubmit the documents within 10 days of getting our proposed changes.
+The Regen Registry team may require additional information or further clarification. If so, the project developer must make the changes and resubmit the documents within 10 days of receiving requests for additional material.
 
 #### Third Party Validation
 
@@ -53,7 +53,7 @@ In addition to internal validation, project proponents may need third-party veri
 {% endtab %}
 
 {% tab title="Project Approval" %}
-Projects which have passed the project validation phase are eligible to be registered with the Regen Registry. If a project proponent decides to register a project, they must sign necessary contracts, including Terms of Service.&#x20;
+Projects which have passed the project validation phase are eligible to be registered with the Regen Registry. If a project proponent decides to register a project, they must sign necessary contracts.&#x20;
 
 Once these activities have been completed, the project will be instantiated on the [Regen Ledger](https://docs.regen.network/) and a corresponding project page will be created on the [Regen Marketplace](https://app.regen.network/).
 {% endtab %}
