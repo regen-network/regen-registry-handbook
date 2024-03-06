@@ -2,7 +2,7 @@
 
 ### Methodology Review Process
 
-The methodology review process consists of four stages before the methodology is published on the Regen Registry [Methodology Library](http://127.0.0.1:5000/o/HLlZLPGRtuSIEfuq1a8I/s/H1QmzemVpWDCJv0QlPOj/):
+The methodology review process consists of four stages before the methodology is published on the Regen Registry [Methodology Library](https://app.gitbook.com/o/HLlZLPGRtuSIEfuq1a8I/s/H1QmzemVpWDCJv0QlPOj/):
 
 1. [Informal Feedback from Regen Registry & Regen Network Community](methodology-review-process.md#informal-feedback-from-regen-registry-and-regen-network-community)
 2. [Internal Review](methodology-review-process.md#internal-review) (4 weeks)
@@ -65,7 +65,7 @@ In addition to review comments, the expert peer reviewer should also indicate if
 
 ## Public Comment
 
-After a methodology has successfully completed the expert peer review process it will advance to the final review stage, Public Comment. Comments about the methodology will be solicited from the general public for a period of 15 days. The public commenting period will be announced using Regen Network Development (RND) typical social media platforms (ie [RND Hylo](https://www.hylo.com/groups/regen-registry-public-comment) and [Twitter](https://twitter.com/regen\_network?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
+After a methodology has successfully completed the expert peer review process it will advance to the final review stage, Public Comment. Comments about the methodology will be solicited from the general public for a period of 15 days. The public commenting period will be announced on [Regen Registry Hylo](https://www.hylo.com/groups/regen-methodology-development) and on Regen Network Development (RND) typical social media platforms (ie [Twitter](https://twitter.com/regen\_network?ref\_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)).
 
 Methodologies open to Public Comment are posted on the [Call for Public Comment](https://registry.regen.network/v/methodology-library/methodologies-and-credit-classes-in-review/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment) page can be made through the Public Comment templates provided there.  People submitting comments directly will have the option to remain anonymous (the default option) or they can request to have their name attached to the comments.
 
