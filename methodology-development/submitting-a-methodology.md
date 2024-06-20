@@ -4,14 +4,14 @@
 
 It might seem like an overwhelming process, but we’re here to help! Prior to developing a methodology, take a look to see if there is a similar methodology that is already approved on our program or other accepted programs either from our [Methodology Library](http://library.regen.network) or from various third party programs such as:
 
-* Gold Standard
-* American Carbon Registry
-* Climate Action Reserve
-* Australian Emission Reduction Fund - Carbon Farming Initiative
-* Social Carbon Registry
-* Plan Vivo Registry
-* Verified Carbon Standard (VCS) Registry
-* Climate, Carbon, & Biodiversity Standards (CCBS) Registry
+* Terrasos - [Biodiversity Credits](https://en.terrasos.co/\_files/ugd/cfa1dc\_5af4fd0405c04e4a85c59dc9a3e3293b.pdf)
+* Verra: [VCS](https://verra.org/methodologies-main/), [CCB](https://verra.org/programs/ccbs/) & [Jurisdictional & Nested REDD+](https://verra.org/programs/jurisdictional-nested-redd-framework/) Programs
+* UNFCCC - Afforestation and Reforestation for [small](https://cdm.unfccc.int/methodologies/SSCAR/approved) and [large](https://cdm.unfccc.int/methodologies/ARmethodologies/approved) scale projects
+* [Gold Standard](https://globalgoals.goldstandard.org/documents/methodology/)
+* [American Carbon Registry](https://acrcarbon.org/methodologies/approved-methodologies/)
+* [Climate Action Reserve](https://www.climateactionreserve.org/how/protocols/)&#x20;
+* [Accounting for Nature](https://www.accountingfornature.org/method-catalogue)
+* Greencollar [NaturePlus](https://greencollar.com.au/our-services/natureplus/) & [Grazing Land Management](https://greencollar.com.au/grazing-land-management-method-reef-credits/)
 
 If you plan to use a methodology from another existing registry program and would like to consider adding to this list, please contact us at registry@regen.network.
 
