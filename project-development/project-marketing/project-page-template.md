@@ -1,13 +1,12 @@
 ---
 description: >-
-  Each project proponent registering a project must submit a project page with
-  key information about the project and project media.
+  Each project proponent registering a project must create their Project Page
+  which will populate on our Marketplace will allow your audience to understand
+  the details of your project.
 ---
 
 # Project Page Template
 
-[Downloadable Project Page Template](https://docs.google.com/document/d/1AoD0JDDizdKObAmoTcH6g9MHmB96UN4jJGGpjIWhipE/copy)
+We ecnourage project developers and proponents to start their Project Page that will appear on our [Marketplace](https://app.regen.network/projects/1) as soon as possible.  Also consider adding [Data Streams](https://guides.regen.network/guides/regen-app-project-developers-and-land-stewards/using-regen-data-stream)  as it is a great way to build awarness and appreciation for your project and give potential buyers a way to track your progress - even well before listing credits.
 
-**Preview of Project Page Template:**&#x20;
-
-{% embed url="https://drive.google.com/file/d/1B9uiNF8uqq-jhqNR9vCXdWda0QMz7cKb/view?usp=sharing" %}
+Visit our [Creating a Project Page](https://guides.regen.network/guides/regen-app-project-developers-and-land-stewards/creating-projects) guide to get started.
