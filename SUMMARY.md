@@ -46,7 +46,7 @@
   * [Monitoring Report & Template](project-development/monitoring-overview/monitoring-report-and-template.md)
   * [Verification](project-development/monitoring-overview/verification.md)
 * [Project Marketing](project-development/project-marketing.md)
-  * [Credit Class Page Template](project-development/project-marketing/credit-class-page-template.md)
+  * [Create a Credit Protocol Page](project-development/project-marketing/create-a-credit-protocol-page.md)
   * [Create a Project Page](project-development/project-marketing/create-a-project-page.md)
 
 ## Credit Issuance
