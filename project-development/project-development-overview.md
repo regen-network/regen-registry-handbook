@@ -23,7 +23,7 @@ During the project term, changes in ecological state are monitored to track how 
   * Project validation
   * [Monitoring report](monitoring-overview/monitoring-report-and-template.md)&#x20;
 * [Project Marketing](project-marketing.md)
-  * [Project page](project-marketing/project-page-template.md)&#x20;
+  * [Project page](project-marketing/create-a-project-page.md)&#x20;
 * [Credit Issuance ](../credit-issuance/credit-issuance.md)
   * Project lifecycle
 

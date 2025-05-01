@@ -18,9 +18,9 @@ A credit class must stipulate the land ownership types that can be utilized, inc
 
 #### 3. Conditions for Applicability
 
-Conditions which make a piece of land eligible for enrollment in this program.  Outline specifics requirements for how projects should prove applicable conditions and what needs to be reported during registration as part of the project plan.   This could include geographic restrictions.
+Conditions which make a piece of land eligible for enrollment in this program. Outline specifics requirements for how projects should prove applicable conditions and what needs to be reported during registration as part of the project plan. This could include geographic restrictions.
 
-Outline the eligibility requirements for land which would be eligible for enrollment in this program.  For instance projects which previously were wetlands or native forest which got removed recently should be excluded as it indicates that land stewards could have potentially removed native ecosystems to make money via the carbon market.&#x20;
+Outline the eligibility requirements for land which would be eligible for enrollment in this program. For instance projects which previously were wetlands or native forest which got removed recently should be excluded as it indicates that land stewards could have potentially removed native ecosystems to make money via the carbon market.&#x20;
 
 #### 4. Regulatory Compliance
 
@@ -48,7 +48,7 @@ The project duration does not include the Permanence obligation of Regen Registr
 {% tab title="Rules and Regulations" %}
 **1.Approved Methodologies**
 
-A credit class must list the approved methodologies that can be utilized with a given credit class.  The credit class admin will update this list as new methodologies are added.
+A credit class must list the approved methodologies that can be utilized with a given credit class. The credit class admin will update this list as new methodologies are added.
 
 #### 2. Aggregate Projects&#x20;
 
@@ -88,7 +88,7 @@ _**Structure Options:**_
 2. Project Specific Buffer - Each project would have its own buffer pool. This scenario places more risk on individual projects/the project developer if they experience loss because they might not have the credits to cover it and would have to resolve it as specified in our Regen Registry Program Guide. It does however address concerns individual projects might have on the idea of shared risk if they don’t want to cover other projects which might be deemed “more risky”.
 
 \
-_In the future the Regen Registry will set up a shared buffer pool that credit classes can opt into if they want to share risk with other crediting programs, but we will hold off on that until we have more credit classes and a better understanding of how we want to tackle the idea of fungibility._
+&#xNAN;_&#x49;n the future the Regen Registry will set up a shared buffer pool that credit classes can opt into if they want to share risk with other crediting programs, but we will hold off on that until we have more credit classes and a better understanding of how we want to tackle the idea of fungibility._
 
 **6. Verification**
 

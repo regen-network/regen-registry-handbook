@@ -25,10 +25,6 @@ Some advantages of this credit class structure are:
 
 (3) Ability to design regional or practice specific crediting programs which accommodate to the needs of a specific set of stakeholders
 
-**Visit** [**Regen Registry Credit Classes**](http://127.0.0.1:5000/o/HLlZLPGRtuSIEfuq1a8I/s/92ZstsU83z0u8gZ2NwYt/) **for a list of current credit classes.**
+**Visit** [**Regen Registry Credit Classes**](broken-reference) **for a list of current credit classes.**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Credit Class.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Credit Class.png" alt=""><figcaption></figcaption></figure></div>
