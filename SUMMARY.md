@@ -17,7 +17,7 @@
 * [Protocol (Methodology) Development Overview](protocol-development/protocol-methodology-development-overview.md)
 * [Submitting a Methodology](methodology-development/submitting-a-methodology.md)
 * [Protocol Development Support](protocol-development/protocol-development-support.md)
-* [Methodology Review Process](methodology-development/methodology-review-process.md)
+* [Protocol Review Process](methodology-development/methodology-review-process.md)
 * [Who are Expert Peer Reviewers](methodology-development/who-are-expert-peer-reviewers.md)
 
 ## Credit Class Development
