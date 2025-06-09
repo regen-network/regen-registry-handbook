@@ -10,7 +10,7 @@ The protocol details the credit type, credit unit, project activities, ecosystem
 
 As a methodology is being developed, the Regen Registry and Science Teams are available for limited internal feedback as part of teh Protocol Review process that as outlined below. &#x20;
 
-Please also join our [Hylo space](https://www.hylo.com/groups/regen-methodology-development) to engage in community support.  See the [Methodology Development Support](../methodology-development/methodology-development-support.md) chapter for more details.
+Please also join our [Hylo space](https://www.hylo.com/groups/regen-methodology-development) to engage in community support.  See the [Methodology Development Support](protocol-development-support.md) chapter for more details.
 
 **Protocol Development Process:**&#x20;
 
