@@ -4,7 +4,7 @@
 
 It might seem like an overwhelming process, but we’re here to help! Prior to developing a methodology, take a look to see if there is a similar methodology that is already approved on our program or other accepted programs either from our [Methodology Library](http://library.regen.network) or from various third party programs such as:
 
-* Terrasos - [Biodiversity Credits](https://en.terrasos.co/\_files/ugd/cfa1dc\_5af4fd0405c04e4a85c59dc9a3e3293b.pdf)
+* Terrasos - [Biodiversity Credits](https://en.terrasos.co/_files/ugd/cfa1dc_5af4fd0405c04e4a85c59dc9a3e3293b.pdf)
 * Verra: [VCS](https://verra.org/methodologies-main/), [CCB](https://verra.org/programs/ccbs/) & [Jurisdictional & Nested REDD+](https://verra.org/programs/jurisdictional-nested-redd-framework/) Programs
 * UNFCCC - Afforestation and Reforestation for [small](https://cdm.unfccc.int/methodologies/SSCAR/approved) and [large](https://cdm.unfccc.int/methodologies/ARmethodologies/approved) scale projects
 * [Gold Standard](https://globalgoals.goldstandard.org/documents/methodology/)
@@ -41,4 +41,4 @@ Note: We are working on options for a permissionless processes.
 
 When you are ready to submit, use the [Methodology & Credit Class Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g) to submit a methodology draft for internal review.
 
-For more information on methodology submission requirements and the continued development process please read the [Methodology Developments Overview](methodology-development-overview.md) chapter.
+For more information on methodology submission requirements and the continued development process please read the [Methodology Developments Overview](protoc0l-methodology-development-overview.md) chapter.

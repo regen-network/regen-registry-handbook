@@ -14,7 +14,7 @@ The following process is applied to all new credit classes:
 
 3\) Public Comment
 
-When a credit class and methodology and being developed together the Regen Registry requests that they be submitted at the same time for the review process due to the correlative nature of the content of the documents.  Please refer to the [Methodology Review Process](../methodology-development/methodology-review-process.md) chapter for more details on each of these steps.
+When a credit class and methodology and being developed together the Regen Registry requests that they be submitted at the same time for the review process due to the correlative nature of the content of the documents.  Please refer to the [Methodology Review Process](../protocol-development/methodology-review-process.md) chapter for more details on each of these steps.
 
 1\. Internal Review: Credit designer submits the proposed new or modified credit class to Regen Registry.  Regen Registry reviews the draft and provides feedback.  Approximately a 4-6 week process.
 
