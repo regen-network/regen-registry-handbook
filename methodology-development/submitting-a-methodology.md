@@ -41,4 +41,4 @@ Note: We are working on options for a permissionless processes.
 
 When you are ready to submit, use the [Methodology & Credit Class Intake Form](https://airtable.com/appzrw40tJdLBM2RS/shrLCL7ioWuGLSc7g) to submit a methodology draft for internal review.
 
-For more information on methodology submission requirements and the continued development process please read the [Methodology Developments Overview](protoc0l-methodology-development-overview.md) chapter.
+For more information on methodology submission requirements and the continued development process please read the [Methodology Developments Overview](../protocol-development/protocol-methodology-development-overview.md) chapter.

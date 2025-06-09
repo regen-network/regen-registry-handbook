@@ -4,11 +4,13 @@ cover: ../.gitbook/assets/Gitbook - Regen Registry (1).png
 coverY: 0
 ---
 
-# Protoc0l (Methodology) Development Overview
+# Protocol (Methodology) Development Overview
 
 The protocol details the credit type, credit unit, project activities, ecosystem type, monitoring, reporting and verification (MRV) process that is specific to a project.&#x20;
 
-As a methodology is being developed, the Regen Registry and Science Teams are available for limited internal feedback as part of teh Protocol Review process that as outlined below.  Please also join our [Hylo space](https://www.hylo.com/groups/regen-methodology-development) to engage in community support.  See the [Methodology Development Support](methodology-development-support.md) chapter for more details.
+As a methodology is being developed, the Regen Registry and Science Teams are available for limited internal feedback as part of teh Protocol Review process that as outlined below. &#x20;
+
+Please also join our [Hylo space](https://www.hylo.com/groups/regen-methodology-development) to engage in community support.  See the [Methodology Development Support](../methodology-development/methodology-development-support.md) chapter for more details.
 
 **Protocol Development Process:**&#x20;
 

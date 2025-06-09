@@ -11,8 +11,8 @@ coverY: 0
 Projects are developed by methodology developers, project developers or Earth stewards using methodologies and credit classes from the following:&#x20;
 
 * [Regen Registry Library](https://library.regen.network)&#x20;
-* Methodologies with approval to use from [another registry](../protocol-development/submitting-a-methodology.md)
-* [Your own methodology](../protocol-development/protoc0l-methodology-development-overview.md) and [credit class ](broken-reference)
+* Methodologies with approval to use from [another registry](../methodology-development/submitting-a-methodology.md)
+* [Your own methodology](../protocol-development/protocol-methodology-development-overview.md) and [credit class ](broken-reference)
 
 During the project term, changes in ecological state are monitored to track how successfully the methodology was implemented and calculate the number of credits eligible to be sold in the market.&#x20;
 
