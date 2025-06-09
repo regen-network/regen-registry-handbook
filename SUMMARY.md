@@ -22,16 +22,16 @@
 
 ## Credit Type&#x20;
 
-* [Credit Class vs Methodology](credit-type/credit-class-vs-methodology.md)
-* [Credit Type](credit-type/credit-type.md)
-* [Management](credit-type/management/README.md)
-  * [Issuance](credit-type/management/issuance.md)
-  * [Credit Class Creator Allow List](credit-type/management/credit-class-creator-allow-list.md)
-  * [Modifications to Approved Credit Classes](credit-type/management/modifications-to-approved-credit-classes.md)
-* [Co-Benefits](credit-type/co-benefits.md)
-* [Governance](credit-type/governance.md)
-* [Writing a Credit Class - Guidelines](credit-type/writing-a-credit-class-guidelines/README.md)
-  * [Credit Class Template](credit-type/writing-a-credit-class-guidelines/credit-class-template.md)
+* [Key Protocol Components](credit-type/key-protocol-components.md)
+* [Credit Type](credit-class-development/credit-type.md)
+* [Management](credit-class-development/management/README.md)
+  * [Issuance](credit-class-development/management/issuance.md)
+  * [Credit Class Creator Allow List](credit-class-development/management/credit-class-creator-allow-list.md)
+  * [Modifications to Approved Credit Classes](credit-class-development/management/modifications-to-approved-credit-classes.md)
+* [Co-Benefits](credit-class-development/co-benefits.md)
+* [Governance](credit-class-development/governance.md)
+* [Writing a Credit Class - Guidelines](credit-class-development/writing-a-credit-class-guidelines/README.md)
+  * [Credit Class Template](credit-class-development/writing-a-credit-class-guidelines/credit-class-template.md)
 
 ## Project Development
 

@@ -1,14 +1,6 @@
----
-description: >-
-  Clarification on what belongs in a credit class and what belongs in a
-  methodology
----
+# Key Protocol Components
 
-# Credit Class vs Methodology
-
-This list distinguishes between the content that is belongs in a methodology and that which belongs in a credit class.  In certain cases the credit class and methodology can be combined into one document (preexisting methodologies from other registries and some non-carbon methodologies).
-
-**Credit Class: Overarching requirements and protocols**
+**General requirements:**
 
 * Project Eligibility:  Ecosystem Service Classification, Ecosystem Type
 * Project rules and regulations
@@ -23,7 +15,7 @@ This list distinguishes between the content that is belongs in a methodology and
 * Crediting Term
 * Project emissions
 
-**Methodology: Measurement approach for developing monitoring reports**
+**Measurement approach for developing monitoring reports:**
 
 * Methodology overview
 * Definitions
@@ -32,3 +24,5 @@ This list distinguishes between the content that is belongs in a methodology and
 * Specific Co-benefits
 * Reporting - methods and cadence
 * Uncertainty
+
+NOTE: There may be the option to work with a protocol developer to ammend a protocol - specifically the measurement approach - to be more propoerly tailored to a specific project and the stakeholders engaged in that project management and implementation.
