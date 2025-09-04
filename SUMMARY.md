@@ -19,17 +19,13 @@
 * [Protocol Development Support](protocol-development/protocol-development-support.md)
 * [Protocol Review Process](methodology-development/methodology-review-process.md)
 * [Who are Expert Peer Reviewers](methodology-development/who-are-expert-peer-reviewers.md)
+* [Approval of New Credit Protocols and Credit Types](protocol-development/approval-of-new-credit-protocols-and-credit-types.md)
 
 ## Credit Type&#x20;
 
 * [Key Protocol Components](credit-class-development/credit-class-vs-methodology.md)
 * [Credit Type](credit-class-development/credit-type.md)
-* [Management](credit-class-development/management/README.md)
-  * [Issuance](credit-class-development/management/issuance.md)
-  * [Credit Protocol Creator Allow List](credit-type/management/credit-protocol-creator-allow-list.md)
-  * [Modifications to Approved Credit Protocols](credit-type/management/modifications-to-approved-credit-protocols.md)
 * [Co-Benefits](credit-class-development/co-benefits.md)
-* [Governance](credit-class-development/governance.md)
 * [Writing a Credit Protocol - Guidelines](credit-type/writing-a-credit-protocol-guidelines/README.md)
   * [Credit Class Template](credit-type/writing-a-credit-protocol-guidelines/credit-class-template.md)
 
