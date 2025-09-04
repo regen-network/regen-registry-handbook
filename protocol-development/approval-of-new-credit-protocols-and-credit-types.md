@@ -15,10 +15,7 @@ Regen Registry’s governance processes are designed to uphold the principles ou
 
 After the expert review and public comment period (described in previous chapters) the approval process proceeds:
 
-* **Resolution of Comments**: The methodology developer must address and resolve all expert and public comments.
-* **Registry Review**: A designated Registry Agent will review how comments were addressed by developer, and ensure full resolution between comments and responses.
-* **Unresolved Issues**: If some comments cannot be resolved, the Regen Registry team will weigh in and make a decision guided by the principles outlined in the Handbook (environmental integrity, mission alignment, technical robustness, feasibility, inclusivity, and public benefit).
-* **Final Confirmation**: Once either (a) all comments are resolved, or (b) the Registry team has made a decision on outstanding issues, the protocol can proceed.
+* **Final Confirmation**: Once either (a) all comments are resolved, or (b) the Registry Agent has made a decision on outstanding issues, the protocol can proceed.
 * **Notification**: The Registry team notifies the methodology developer of the approval decision.
 * **On-Chain Record**: The Regen Registry team will create a proposal in the DAODAO Regen Registry and vote to approve the protocol. This ensures a transparent and permanent log of all approved protocols (beginning fall 2025).
 
